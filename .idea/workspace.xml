@@ -19,11 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="" />
+    <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="lesson 5.3  Variables">
+      <change afterPath="$PROJECT_DIR$/5.4/lesson_5_4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.4/lesson_5_4_default_values.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.4/lesson_5_4_pointer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
@@ -35,6 +47,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -56,5 +69,19 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 5.3  Variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 5.3  Variables" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1605732731770">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605732731770" />
+    <state x="537" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605732949711">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="537" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605732949711" />
   </component>
 </project>
