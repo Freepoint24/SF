@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="lesson 5.4  Basic types">
-      <change afterPath="$PROJECT_DIR$/5.5_Operators/arithmetic_operators.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.5_Operators/assignement.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.5_Operators/comparison.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.5_Operators/logical.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.6_Constant/Constant.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
