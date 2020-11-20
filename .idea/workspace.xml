@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="lesson 5.4  Basic types">
-      <change afterPath="$PROJECT_DIR$/5.6_Constant/Constant.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.7_Package/access.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.7_Package/test/private.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,36 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODE\SF\5.7_Package\test" />
+      <recent name="D:\CODE\SF\5.7_Package" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build SF/">
+    <configuration name="go build Packege2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="SF" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/5.7_Package/Packege2.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build SF/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="SF" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Packege2.go" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +105,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="lesson 5.4  Basic types" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="512" y="263" key="#Go_Modules" timestamp="1605905457951">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="512" y="263" key="#Go_Modules/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605905457951" />
+    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1605898898028">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="184" key="FileChooserDialogImpl/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605898898028" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1605900029865">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605900029865" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1605900029865">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.center/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605900029865" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1605900029865">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.left/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605900029865" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1605900029865">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.right/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605900029865" />
     <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1605818582144">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
