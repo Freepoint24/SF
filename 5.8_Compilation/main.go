@@ -5,8 +5,7 @@ import (
 	"simple/maths"
 )
 
-
-func main()  {
+func main() {
 	fmt.Println(maths.Summa)
 	fmt.Println(maths.Subtract)
 

@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="lesson 5.4  Basic types">
-      <change afterPath="$PROJECT_DIR$/5.7_Package/access.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.7_Package/test/private.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.8_Compilation/simple.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/5.8_Compilation" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -109,10 +108,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="512" y="263" key="#Go_Modules/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605905457951" />
-    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1605898898028">
+    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1605907455706">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="500" y="184" key="FileChooserDialogImpl/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605898898028" />
+    <state x="500" y="184" key="FileChooserDialogImpl/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605907455706" />
     <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1605900029865">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
