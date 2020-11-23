@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 	// Оператор сложения
-	sum := 2 + 3
+	sum := 5 + 3
 
 	// Оператор вычитания
 	subtraction := 3 - 2
