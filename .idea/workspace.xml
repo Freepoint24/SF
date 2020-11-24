@@ -20,15 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6.4_Cycles/cycles.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.4_Cycles/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.4_Cycles/main2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.4_Cycles/main_6.4.2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.4_Cycles/main_6.4.3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.6_input/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.6_input/main2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.6_input/main3.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.4/lesson_5_4.go" beforeDir="false" afterPath="$PROJECT_DIR$/5.4_ Basic types/lesson_5_4.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.4/lesson_5_4_default_values.go" beforeDir="false" afterPath="$PROJECT_DIR$/5.4_ Basic types/lesson_5_4_default_values.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.4/lesson_5_4_pointer.go" beforeDir="false" afterPath="$PROJECT_DIR$/5.4_ Basic types/lesson_5_4_pointer.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +105,7 @@
     <MESSAGE value="lesson 5.4  Basic types" />
     <MESSAGE value="lesson 5.8 Compilation and homework" />
     <MESSAGE value="lesson 5.5 Operators" />
+    <MESSAGE value="lesson 6.4 Cycles" />
     <MESSAGE value="lesson 5.4 Basic types" />
     <option name="LAST_COMMIT_MESSAGE" value="lesson 5.4 Basic types" />
   </component>
@@ -142,11 +138,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1397" height="222" key="GridCell.Tab.0.right/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605900029865" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1606162215070">
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1606242006738">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="312" y="162" key="Vcs.Push.Dialog.v2/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605910167635" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606162215070" />
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606242006738" />
     <state x="537" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605818398753">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
