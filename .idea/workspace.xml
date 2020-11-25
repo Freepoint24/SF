@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6.7_output/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.6_input/main3.go" beforeDir="false" afterPath="$PROJECT_DIR$/6.6_input/main3.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,9 +104,10 @@
     <MESSAGE value="lesson 5.5 Operators" />
     <MESSAGE value="lesson 6.4 Cycles" />
     <MESSAGE value="lesson 5.4 Basic types" />
-    <MESSAGE value="lesson 6.6 input" />
     <MESSAGE value="lesson 6.8 output" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 6.8 output" />
+    <MESSAGE value="lesson 6.6 input" />
+    <MESSAGE value="lesson 6.7 output" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 6.7 output" />
   </component>
   <component name="WindowStateProjectService">
     <state x="512" y="263" key="#Go_Modules" timestamp="1605905457951">
@@ -139,11 +138,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1397" height="222" key="GridCell.Tab.0.right/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605900029865" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1606247745064">
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1606250049641">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="312" y="162" key="Vcs.Push.Dialog.v2/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605910167635" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606247745064" />
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606250049641" />
     <state x="537" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605818398753">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
