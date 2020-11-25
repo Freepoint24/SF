@@ -7,15 +7,15 @@ func main() {
 	var operator string
 
 	//ввод числа 1
-	//	fmt.Print("Введите число1:")
+	fmt.Print("Введите число 1:")
 	fmt.Scan(&number1)
 
 	//ввод оператора
-	//fmt.Print("оператор:")
+	fmt.Print("Введите оператор:")
 	fmt.Scan(&operator)
 
 	//ввод числа 1
-	//fmt.Print("Введите число2:")
+	fmt.Print("Введите число 2:")
 	fmt.Scan(&number2)
 
 	switch operator {
@@ -23,12 +23,12 @@ func main() {
 		output = number1 * number2
 		fmt.Println("Результат умножения:", output)
 	case "/":
-				if number2 == 0 {
-					fmt.Println("ошибка")
-				}else {
-					output = number2 / number1
-					fmt.Println("Результат деления:", output)
-				}
+		if number2 == 0 {
+			fmt.Println("ошибка")
+		} else {
+			output = number2 / number1
+			fmt.Println("Результат деления:", output)
+		}
 	case "+":
 		output = number1 + number2
 		fmt.Println("Результат сложения:", output)
