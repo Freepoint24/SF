@@ -14,7 +14,7 @@ func main() {
 	fmt.Print("Введите оператор:")
 	fmt.Scan(&operator)
 
-	//ввод числа 1
+	//ввод числа 2
 	fmt.Print("Введите число 2:")
 	fmt.Scan(&number2)
 
