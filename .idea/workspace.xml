@@ -20,7 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7.2_functions/parameter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/calculator/calc/calc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/calculator/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/.idea/dzModule6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +117,9 @@
     <MESSAGE value="lesson 6.7 output" />
     <MESSAGE value="lesson 6.8 homework &amp; example" />
     <MESSAGE value="lesson 7.2 Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 7.2 Functions" />
+    <MESSAGE value="lesson 7.2 parameter" />
+    <MESSAGE value="lesson_6.8_calculator_0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_6.8_calculator_0.2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="512" y="263" key="#Go_Modules" timestamp="1605905457951">
@@ -141,15 +150,23 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1397" height="222" key="GridCell.Tab.0.right/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605900029865" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1606420726972">
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1606595555719">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="312" y="162" key="Vcs.Push.Dialog.v2/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605910167635" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606420726972" />
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606595555719" />
     <state x="537" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605818398753">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="537" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605818398753" />
+    <state x="119" y="-705" width="1174" height="621" maximized="true" key="dock-window-1" timestamp="1606596400125">
+      <screen x="-2" y="-903" width="1440" height="860" />
+    </state>
+    <state x="119" y="-705" width="1174" height="621" maximized="true" key="dock-window-1/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606596400125" />
+    <state x="427" y="29" width="585" height="801" key="find.popup" timestamp="1606595927327">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="427" y="29" width="585" height="801" key="find.popup/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606595927327" />
     <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1605822673550">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
