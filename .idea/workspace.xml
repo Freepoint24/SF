@@ -20,15 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/calculator/calc/calc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/calculator/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/.idea/dzModule6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.2_functions/7_3_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.2_functions/closures.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.2_functions/parameter2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.2_functions/parameter3.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.2_functions/parameter.go" beforeDir="false" afterPath="$PROJECT_DIR$/7.2_functions/parameter.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +52,14 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -119,7 +120,8 @@
     <MESSAGE value="lesson 7.2 Functions" />
     <MESSAGE value="lesson 7.2 parameter" />
     <MESSAGE value="lesson_6.8_calculator_0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_6.8_calculator_0.2" />
+    <MESSAGE value="lesson_6.8_calculator add simple projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_6.8_calculator add simple projects" />
   </component>
   <component name="WindowStateProjectService">
     <state x="512" y="263" key="#Go_Modules" timestamp="1605905457951">
@@ -150,11 +152,15 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1397" height="222" key="GridCell.Tab.0.right/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605900029865" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1606595555719">
+    <state x="221" y="74" key="SettingsEditor" timestamp="1606664074197">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="74" key="SettingsEditor/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606664074197" />
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1606597065706">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="312" y="162" key="Vcs.Push.Dialog.v2/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605910167635" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606595555719" />
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606597065706" />
     <state x="537" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605818398753">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
