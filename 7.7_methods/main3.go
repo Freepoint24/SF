@@ -10,14 +10,17 @@ type A struct {
 // структура конец
 //инициализация структуры методом square тип int
 // приемник (переменная) называется a принадлежит структуре А
-func (a A) square() int {
-	return a.i * a.i
+func (a *A) increase() { // *A это указатель на структуру
+	a.i = a.i + 15
 }
 
 func main() {
 	a := A{i: 10}
 	a1 := A{i: 5}
 
-	fmt.Println(a.square())
-	fmt.Println(a1.square())
+	a.increase()
+	fmt.Println(a.i)
+
+	a.increase()
+	fmt.Println(a1.i)
 }
