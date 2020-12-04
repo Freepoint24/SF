@@ -11,8 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77c96fda-c926-420c-8016-14b90a43eff8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../calc/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../calc/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.8_calculator/.idea/6.8_calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.8_calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.8_calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6.8_calculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7.2_functions/1.9.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7.2_functions/structs/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7.7_methods/.idea/7.7_methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7.7_methods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7.7_methods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7.7_methods/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +72,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7.8 calculator 001" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.8 calculator 001" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -76,9 +88,13 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="613" y="290" key="EnvironmentVariablesDialog/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607108065523" />
-    <state x="4" y="109" width="1413" height="589" maximized="true" key="dock-window-1" timestamp="1607110337788">
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1607110710036">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="4" y="109" width="1413" height="589" maximized="true" key="dock-window-1/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607110337788" />
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607110710036" />
+    <state x="18" y="-732" width="1413" height="589" maximized="true" key="dock-window-1" timestamp="1607110754396">
+      <screen x="-2" y="-903" width="1440" height="860" />
+    </state>
+    <state x="18" y="-732" width="1413" height="589" maximized="true" key="dock-window-1/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607110754396" />
   </component>
 </project>
