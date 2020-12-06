@@ -1,7 +1,7 @@
 package main
 
 import (
-	"calculator-b/calcul"
+	calc "calculator-b/calcul"
 	"fmt"
 )
 
@@ -44,4 +44,5 @@ func main() {
 		return
 	}
 
+	fmt.Println(calc.NewCalculator())
 }
