@@ -20,6 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d2c629c-c0f2-4231-8260-7be87653fe97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple1/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple1/primer/primer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/calc/calc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../5.2/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/../5.2/hello.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../5.7_Package/access.go" beforeDir="false" afterPath="$PROJECT_DIR$/../5.7_Package/access.go" afterDir="false" />
@@ -69,6 +80,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 7.5 struct" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 7.5 struct" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -77,5 +92,13 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="512" y="263" key="#Go_Modules/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607283238105" />
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1607283552528">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607283552528" />
+    <state x="537" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607283287191">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="537" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607283287191" />
   </component>
 </project>
