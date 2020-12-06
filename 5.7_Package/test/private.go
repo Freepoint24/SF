@@ -8,6 +8,6 @@ func Public()  {
 }
 
 // Функция названа со строчной буквы, ее можно будет вызывать только в текущем пакете
-func private()  {
+func Private()  {
 	fmt.Println("I`m private")
 }

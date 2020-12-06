@@ -9,7 +9,7 @@ func  main()  {
 	test.Public()
 
 	// При запуск программы выдаст ошибку
-	test.private()
+	test.Private()
 
 
 }
