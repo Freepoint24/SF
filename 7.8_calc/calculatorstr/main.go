@@ -7,7 +7,7 @@ import (
 
 // Блок ввода данных
 func main() {
-	var number1, number2 float64
+	var output, number1, number2 float64
 	var operator string
 	var err error
 
@@ -44,5 +44,8 @@ func main() {
 		return
 	}
 
-	fmt.Println(calc.NewCalculator())
+	calculator := calc.NewCalculator()
+	result := calculator.Calc(output, number1, number2, operator)
+	fmt.Println(result)
+
 }

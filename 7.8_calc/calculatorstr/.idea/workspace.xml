@@ -11,10 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77c96fda-c926-420c-8016-14b90a43eff8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5.2/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.2/hello.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5.7_Package/access.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.7_Package/access.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5.7_Package/test/private.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.7_Package/test/private.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.5_struct/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.5_struct/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.5_struct/simple2/calc/calc.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.5_struct/simple2/calc/calc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.5_struct/simple2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.5_struct/simple2/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calcul/calculator.go" beforeDir="false" afterPath="$PROJECT_DIR$/calcul/calculator.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
@@ -50,7 +49,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../7.7_methods/main3.go" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,21 +86,25 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="613" y="290" key="EnvironmentVariablesDialog/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607108065523" />
-    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1607160169041">
+    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1607365299866">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="500" y="184" key="FileChooserDialogImpl/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607160169041" />
+    <state x="500" y="184" key="FileChooserDialogImpl/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607365299866" />
     <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1607111027481">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607111027481" />
-    <state x="92" y="-797" width="1060" height="744" maximized="true" key="dock-window-1" timestamp="1607155821191">
+    <state x="-2" y="-803" width="1413" height="848" maximized="true" key="dock-window-1" timestamp="1607365821189">
       <screen x="-2" y="-903" width="1440" height="860" />
     </state>
-    <state x="92" y="-797" width="1060" height="744" maximized="true" key="dock-window-1/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607155821191" />
+    <state x="-2" y="-803" width="1413" height="848" maximized="true" key="dock-window-1/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607365821189" />
     <state x="-1429" y="-884" width="1060" height="744" maximized="true" key="dock-window-2" timestamp="1607155821191">
       <screen x="-1442" y="-892" width="1440" height="860" />
     </state>
     <state x="-1429" y="-884" width="1060" height="744" maximized="true" key="dock-window-2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607155821191" />
+    <state x="563" y="190" width="661" height="479" key="refactoring.ChangeSignatureDialog" timestamp="1607364850831">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="563" y="190" width="661" height="479" key="refactoring.ChangeSignatureDialog/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607364850831" />
   </component>
 </project>
