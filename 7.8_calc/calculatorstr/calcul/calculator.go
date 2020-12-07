@@ -4,15 +4,16 @@ import (
 	"fmt"
 )
 
+// неэкспортируемая структура calculator
 type calculator struct{}
 
+// Экспортируемая функция создает экземпляр структуры calculator
 func NewCalculator() calculator {
 	return calculator{}
 }
 
 // блок вычислений
 // приемник *calculator , название метода Calc , результат float64
-
 func (a *calculator) Calc(output, number1, number2 float64, operator string) float64 {
 	switch operator {
 	case "*":
@@ -33,7 +34,6 @@ func (a *calculator) Calc(output, number1, number2 float64, operator string) flo
 		}
 	default:
 		fmt.Println("Ошибка")
-
 	}
 	return output
 

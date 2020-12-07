@@ -14,9 +14,7 @@
       <change beforePath="$PROJECT_DIR$/../../7.5_struct/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.5_struct/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../7.5_struct/simple2/calc/calc.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.5_struct/simple2/calc/calc.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../7.5_struct/simple2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.5_struct/simple2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calcul/calculator.go" beforeDir="false" afterPath="$PROJECT_DIR$/calcul/calculator.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +70,8 @@
     <MESSAGE value="7.8 calculator 001" />
     <MESSAGE value="lesson 7.7 methods" />
     <MESSAGE value="lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson" />
+    <MESSAGE value="7.8 homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.8 homework" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -90,14 +89,14 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="500" y="184" key="FileChooserDialogImpl/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607365299866" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1607111027481">
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1607370282238">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607111027481" />
-    <state x="-2" y="-803" width="1413" height="848" maximized="true" key="dock-window-1" timestamp="1607365821189">
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607370282238" />
+    <state x="94" y="-824" width="1038" height="598" maximized="true" key="dock-window-1" timestamp="1607370551711">
       <screen x="-2" y="-903" width="1440" height="860" />
     </state>
-    <state x="-2" y="-803" width="1413" height="848" maximized="true" key="dock-window-1/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607365821189" />
+    <state x="94" y="-824" width="1038" height="598" maximized="true" key="dock-window-1/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607370551711" />
     <state x="-1429" y="-884" width="1060" height="744" maximized="true" key="dock-window-2" timestamp="1607155821191">
       <screen x="-1442" y="-892" width="1440" height="860" />
     </state>

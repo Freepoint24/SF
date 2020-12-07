@@ -44,6 +44,7 @@ func main() {
 		return
 	}
 
+	// вывод результата
 	calculator := calc.NewCalculator()
 	result := calculator.Calc(output, number1, number2, operator)
 	fmt.Println(result)
