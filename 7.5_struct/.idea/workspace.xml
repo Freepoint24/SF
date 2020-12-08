@@ -20,17 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d2c629c-c0f2-4231-8260-7be87653fe97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/simple2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/.idea/simple2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple3/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple3/struct/struct.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple2/calc/calc.go" beforeDir="false" afterPath="$PROJECT_DIR$/simple2/calc/calc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/simple2/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../7.8_calc/calculatorstr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7.8_calc/calculatorstr/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.8_calc/calculatorstr/calcul/calculator.go" beforeDir="false" afterPath="$PROJECT_DIR$/../7.8_calc/calculatorstr/calcul/calculator.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.8_calc/calculatorstr/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../7.8_calc/calculatorstr/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
@@ -49,12 +59,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../7.8_calc/calculatorstr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/simple2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Go" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,10 +103,18 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="512" y="263" key="#Go_Modules/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607283238105" />
-    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1607365600604">
+    <state x="346" y="108" key="#Inspections" timestamp="1607453828803">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="500" y="184" key="FileChooserDialogImpl/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607365600604" />
+    <state x="346" y="108" key="#Inspections/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607453828803" />
+    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1607454528725">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="184" key="FileChooserDialogImpl/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607454528725" />
+    <state x="221" y="74" key="SettingsEditor" timestamp="1607455781304">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="74" key="SettingsEditor/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607455781304" />
     <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1607283884205">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -101,13 +123,19 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="537" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607283287191" />
-    <state x="349" y="-903" width="1054" height="584" maximized="true" key="dock-window-1" timestamp="1607361176849">
+    <state x="150" y="-742" width="1043" height="577" maximized="true" key="dock-window-1" timestamp="1607453548956">
       <screen x="-2" y="-903" width="1440" height="860" />
     </state>
     <state x="349" y="-903" width="1054" height="584" maximized="true" key="dock-window-1/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@-1442.-892.1440.860" timestamp="1607361176849" />
-    <state x="97" y="-903" width="1054" height="584" maximized="true" key="dock-window-2" timestamp="1607362327987">
-      <screen x="-2" y="-903" width="1440" height="860" />
+    <state x="150" y="-742" width="1043" height="577" maximized="true" key="dock-window-1/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607453548956" />
+    <state x="-1442" y="-892" width="1456" height="869" key="dock-window-2" timestamp="1607454687524">
+      <screen x="-1442" y="-892" width="1440" height="860" />
     </state>
     <state x="97" y="-903" width="1054" height="584" maximized="true" key="dock-window-2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@-1442.-892.1440.860" timestamp="1607362327987" />
+    <state x="-1442" y="-892" width="1456" height="869" key="dock-window-2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607454687524" />
+    <state x="-1234" y="8" width="1043" height="706" maximized="true" key="dock-window-3" timestamp="1607454687524">
+      <screen x="-1440" y="8" width="1440" height="860" />
+    </state>
+    <state x="-1234" y="8" width="1043" height="706" maximized="true" key="dock-window-3/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607454687524" />
   </component>
 </project>
