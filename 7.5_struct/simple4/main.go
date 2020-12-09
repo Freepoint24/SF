@@ -24,8 +24,12 @@ func main() {
 		return
 	}
 
+	//это и есть конструктор?
+	// Kvadrat возвращает экземляр структур NewKvadrat из пакета smplStr
+	//??? resultat получает доступ
+
 	Kvadrat := smplStr.NewKvadrat()
-	result := Kvadrat.Kvadr(storona1, storona2)
-	fmt.Println(result)
+	resultat := Kvadrat.Kvadr(storona1, storona2)
+	fmt.Println("Результат:", resultat)
 
 }

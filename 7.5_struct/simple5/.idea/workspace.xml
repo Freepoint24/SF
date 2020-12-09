@@ -19,14 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc201227-29a5-4b19-906d-28e17d5ace12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../simple5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../simple5/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../simple5/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../simple5/smplStr/kvadrat.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smplStr/kvadrat.go" beforeDir="false" afterPath="$PROJECT_DIR$/smplStr/kvadrat.go" afterDir="false" />
+    <list default="true" id="bebc9727-1eb2-46f8-a237-dc3a9ab5304c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smplStr/kvadrat.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../simple4/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple4/smplStr/kvadrat.go" beforeDir="false" afterPath="$PROJECT_DIR$/../simple4/smplStr/kvadrat.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../7.8_calc/calculatorstr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.8_calc/calculatorstr/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,27 +38,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="GoLibraries">
-    <option name="indexEntireGoPath" value="false" />
-  </component>
-  <component name="ProjectId" id="1lOBkY9cchG66jWtECNA6qNAwL7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1lQvESlgIXlx9nX9G4faQfCMBEa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../simple5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,28 +66,14 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lesson 7.5 struct" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 7.5 struct" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1607542013905">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="500" y="184" key="FileChooserDialogImpl/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607542013905" />
-    <state x="312" y="162" width="976" height="535" key="Vcs.Push.Dialog.v2" timestamp="1607459553416">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="312" y="162" width="976" height="535" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607459553416" />
-    <state x="33" y="-903" width="1209" height="598" maximized="true" key="dock-window-1" timestamp="1607460968181">
+    <state x="-2" y="-803" width="1064" height="848" maximized="true" key="dock-window-1" timestamp="1607542875362">
       <screen x="-2" y="-903" width="1440" height="860" />
     </state>
-    <state x="33" y="-903" width="1209" height="598" maximized="true" key="dock-window-1/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607460968181" />
+    <state x="-2" y="-803" width="1064" height="848" maximized="true" key="dock-window-1/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1607542875362" />
   </component>
 </project>

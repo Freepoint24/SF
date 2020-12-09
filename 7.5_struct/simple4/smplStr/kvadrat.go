@@ -6,14 +6,17 @@ type kvadrat struct {
 	storona2 float64
 	square   float64
 }
-
+// инициализиру структуру kvadrat функцией NewKvadrat
+// return возвращает копию структуры kvadrat
 func NewKvadrat() kvadrat {
 	return kvadrat{}
 }
 
+// метод Kvadr получает значения storona1 и storona2 структуры kvadrat
+//из функции NewKvadrat и возвращает умножение storona1 на storona2
 func (x *kvadrat) Kvadr(storona1, storona2 float64) (square float64) {
-	square = x.storona1 * x.storona2
-	return storona2 * storona1
+//square = x.storona1 * x.storona2
+	return storona1 * storona2
 }
 
 //func (x *kvadrat) add(storona1, storona2 float64) float64 {
