@@ -35,8 +35,6 @@ type radioPhone struct {
 	ButtonsCount int
 }
 
-func (x *Smartphone) Type() string {
-	fmt.Println(Type)
-	applePhone
-	androidPhone
+func (a *Smartphone) Type() string {
+	return fmt.Sprintf( " "	, a.applePhone, a.Smartphone)
 }
