@@ -1,28 +1,19 @@
 package main
 
-import "fmt"
-
-type Article struct {
-	Title string
-	Author string
-}
-
-func (a Article) String() string {
-	return fmt.Sprintf("The %q article was written by %s.", a.Title, a.Author)
-}
-
-type Stringer interface {
-	String() string
-}
+import (
+	"app/electronic"
+	"fmt"
+)
 
 func main() {
-	a := Article{
-		Title: "Understanding Interfaces in Go",
-		Author: "Sammy Shark",
+	f := func(b float64) float64 { return 0.0 }
+	if f(5) > 0 {
+		fmt.Println(f(5))
 	}
-	Print(a)
+	newIPhone := electronic.NewApplePhone("SE2")
+	printCharacteristics(newIPhone)
 }
 
-func Print(s Stringer) {
-	fmt.Println(s.String())
+func printCharacteristics(phone electronic.Phone) {
+
 }
