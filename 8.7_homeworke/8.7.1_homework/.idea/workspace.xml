@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b43208e-14f0-4457-bf18-d183f80e557c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../8.7.1_homework/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8.7.1_homework/electronic/electronic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8.7.1_homework/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8.7.1_homework/main.go" afterDir="false" />
+    <list default="true" id="927d7a9d-309e-4f36-b90d-35dcfc989a24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/electronic/electronic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../8.7_homework/.idea/HW.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../8.7_homework/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../8.7_homework/.idea/workspace.xml" afterDir="false" />
@@ -18,9 +14,9 @@
       <change beforePath="$PROJECT_DIR$/../../7.5_struct/simple4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.5_struct/simple4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../7.5_struct/simple5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.5_struct/simple5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../7.8_calc/calculatorstr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.8_calc/calculatorstr/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/electronic/electronic.go" beforeDir="false" afterPath="$PROJECT_DIR$/electronic/electronic.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW/electronic/electronic.go" beforeDir="false" afterPath="$PROJECT_DIR$/../HW/electronic/electronic.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../HW/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lesson 8.3 error/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.3 error/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lesson 8.3 error/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.3 error/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,45 +25,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Go File" />
-      </list>
-    </option>
-  </component>
   <component name="GOROOT" url="file://C:/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="GoLibraries">
-    <option name="indexEntireGoPath" value="false" />
-  </component>
-  <component name="ProjectId" id="1lqINzQVPlI3Wjdujvnq0mphJ1I" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1ltFYUWRvVihK0uZo0lvPccqV6Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\CODE\SF\8.7_homeworke\HW" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,15 +56,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="example interface 8.7" />
-    <MESSAGE value="8.7 homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.7 homework" />
-  </component>
-  <component name="VgoProject">
-    <integration-enabled>true</integration-enabled>
   </component>
 </project>

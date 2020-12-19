@@ -31,23 +31,23 @@ type radioPhone struct {
 //методы
 //методы для applePhone
 func (*applePhone) Brand() string   { return "applePhone" }
-func (p *applePhone) Model() string { return p.model }
+func (x *applePhone) Model() string { return x.model }
 func (*applePhone) Type() string    { return "smartphone" }
 func (*applePhone) OS() string      { return "iOS" }
 
 //методы для  androidPhone
-func (p *androidPhone) Brand() string { return p.brand }
-func (p *androidPhone) Model() string { return p.model }
-func (p *androidPhone) Type() string  { return "smartphone" }
-func (p *androidPhone) OS() string    { return "Android" }
+func (x *androidPhone) Brand() string { return x.brand }
+func (x *androidPhone) Model() string { return x.model }
+func (x *androidPhone) Type() string  { return "smartphone" }
+func (x *androidPhone) OS() string    { return "Android" }
 
 //методы для radioPhone
-func (p *radioPhone) Brand() string     { return p.brand }
-func (p *radioPhone) Model() string     { return p.model }
-func (p *radioPhone) Type() string      { return "station" }
-func (p *radioPhone) ButtonsCount() int { return p.buttonsCount }
+func (x *radioPhone) Brand() string     { return x.brand }
+func (x *radioPhone) Model() string     { return x.model }
+func (x *radioPhone) Type() string      { return "station" }
+func (x *radioPhone) ButtonsCount() int { return x.buttonsCount }
 
-//функции-конструкторы
+//функции-конструкторы:
 //для структуры applePhone
 func NapplePhone(model string) *applePhone {
 	iphone := new(applePhone) //указатель на структуру applePhone

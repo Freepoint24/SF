@@ -26,20 +26,20 @@ func printCharacteristics(phone electronic.Phone) {
 	fmt.Println("Brand: ", phone.Brand())
 	fmt.Println("Model:", phone.Model())
 	fmt.Println("Type:", phone.Type())
-	fmt.Println("")
+	//fmt.Println("")
 
 	//switch phone := phone.(type) {
 	//	case electronic.Smartphone:
 	//	fmt.Println("os", phone.OS())
 	//}
-	//smart, ok := phone.(electronic.Smartphone)
-	//if ok {
-	//	fmt.Printf("os %s \n", smart.OS())
-	//}
-	//radio, ok := phone.(electronic.StationPhone)
-	//if ok {
-	//	fmt.Printf("buttons %v \n", radio.ButtonsCount())
-	//}
+	smart, ok := phone.(electronic.Smartphone)
+	if ok {
+		fmt.Printf("os %s \n", smart.OS())
+	}
+	radio, ok := phone.(electronic.StationPhone)
+	if ok {
+		fmt.Printf("buttons %v \n", radio.ButtonsCount())
+	}
 
-	//fmt.Println()
+	fmt.Println()
 }
