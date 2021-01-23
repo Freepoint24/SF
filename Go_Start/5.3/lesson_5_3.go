@@ -1,4 +1,4 @@
-package  main
+package main
 
 import "fmt"
 
@@ -13,10 +13,11 @@ var (
 	b = 10
 	r = 15
 )
+
 // Функция main - точка входа в прогрмму. При запуске программы, выполнение начинается с нее
 func main() {
 	// Обяъвлене локальной перемнной внутри функции
-    var x string = "Hello World"
+	var x string = "Hello World"
 	// Переменные видны в области видиомости функции main
 	// Присвоение значения переменной
 	s := "First"
@@ -32,7 +33,8 @@ func main() {
 	fmt.Println(x)
 	fmt.Println(Y, b)
 }
+
 // Функция f, которая так же имеет доступ к переменной 'c'
-func g()  {
+func g() {
 	fmt.Println(c)
 }
