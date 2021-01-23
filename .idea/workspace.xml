@@ -20,22 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algoritm/.idea/Algoritm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/10.6_array/.idea/10.6_array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/10.6_array/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/10.6_array/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/10.6_array/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/10.6_array/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/10.7_array/.idea/10.7_array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/10.7_array/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/10.7_array/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/10.7_array/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/10.7_array/main2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/11.2_list/.idea/11.2_list.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/11.2_list/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/11.2_list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/11.3_singl_list/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +129,7 @@
     <MESSAGE value="lesson 7.2 - 7.3" />
     <MESSAGE value="lesson 7.2 structs" />
     <MESSAGE value="lesson 7.7 methods" />
+    <MESSAGE value="Go_Algorithms" />
     <MESSAGE value="Go_Start" />
     <option name="LAST_COMMIT_MESSAGE" value="Go_Start" />
   </component>
