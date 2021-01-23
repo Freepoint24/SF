@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algoritm/11.3_singl_list/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,6 +130,7 @@
     <MESSAGE value="lesson 7.7 methods" />
     <MESSAGE value="Go_Algorithms" />
     <MESSAGE value="Go_Start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Go_Start" />
+    <MESSAGE value="lesson 11.3 singly linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 11.3 singly linked list" />
   </component>
 </project>
