@@ -20,264 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.5_interface/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.5_interface/example.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.5_interface/home.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.5_interface/homevorke3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.5_interface/homeworke.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.5_interface/homeworke2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.5_interface/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.5_interface/main2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.5_interface/main3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.5_interface/main4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.5_interface/main5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.6_array/.idea/10.6_array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.6_array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.6_array/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.6_array/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.7_array/.idea/10.7_array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.7_array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.7_array/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.7_array/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.7_array/main2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.2_list/.idea/11.2_list.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.2_list/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.2/.idea/5.2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.5_interface/.idea/8.5_interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.2/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.2/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.2/hello.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.3/.idea/5.3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.3/.idea/5.3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.3/lesson_5_3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.3/lesson_5_3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.4_ Basic types/lesson_5_4.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.4_ Basic types/lesson_5_4.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.4_ Basic types/lesson_5_4_default_values.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.4_ Basic types/lesson_5_4_default_values.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.4_ Basic types/lesson_5_4_pointer.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.4_ Basic types/lesson_5_4_pointer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.5_Operators/arithmetic_operators.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.5_Operators/arithmetic_operators.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.5_Operators/assignement.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.5_Operators/assignement.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.5_Operators/comparison.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.5_Operators/comparison.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.5_Operators/logical.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.5_Operators/logical.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.6_Constant/Constant.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.6_Constant/Constant.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.7_Package/.idea/5.7_Package.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.7_Package/.idea/5.7_Package.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.7_Package/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.7_Package/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.7_Package/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.7_Package/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.7_Package/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.7_Package/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.7_Package/access.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.7_Package/access.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.7_Package/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.7_Package/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.7_Package/test/private.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.7_Package/test/private.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.8_Compilation/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.8_Compilation/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.8_Compilation/.idea/Compilation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.8_Compilation/.idea/Compilation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.8_Compilation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.8_Compilation/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.8_Compilation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.8_Compilation/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.8_Compilation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.8_Compilation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.8_Compilation/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.8_Compilation/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.8_Compilation/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.8_Compilation/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.8_Compilation/maths/addition.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.8_Compilation/maths/addition.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.8_Compilation/maths/subtraction.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/5.8_Compilation/maths/subtraction.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.3_branching/branching.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.3_branching/branching.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.3_branching/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.3_branching/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.3_branching/main_6.3.1.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.3_branching/main_6.3.1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.3_branching/switch.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.3_branching/switch.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.4_Cycles/cycles.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.4_Cycles/cycles.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.4_Cycles/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.4_Cycles/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.4_Cycles/main_6.4.2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.4_Cycles/main_6.4.2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.4_Cycles/main_6.4.3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.4_Cycles/main_6.4.3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.6_input/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.6_input/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.6_input/main2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.6_input/main2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.6_input/main3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.6_input/main3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.7_output/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.7_output/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/.idea/6.8_calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/.idea/6.8_calculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/main_example.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/main_example.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/simple/calculator/calc/calc.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/simple/calculator/calc/calc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/simple/calculator/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/simple/calculator/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/.idea/dzModule6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/simple/dzModule6/.idea/dzModule6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/simple/dzModule6/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/simple/dzModule6/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/simple/dzModule6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/simple/dzModule6/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.8_calculator/simple/dzModule6/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/6.8_calculator/simple/dzModule6/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/.idea/7.5_struct.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/.idea/7.5_struct.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple1/.idea/simple1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple1/.idea/simple1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple1/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple1/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple1/primer/primer.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple1/primer/primer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple2/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple2/.idea/simple2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple2/.idea/simple2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple2/calc/calc.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple2/calc/calc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple2/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple2/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple3/.idea/simple3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple3/.idea/simple3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple3/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple3/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple3/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple3/smplStr/kvadrat.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple3/smplStr/kvadrat.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple4/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple4/.idea/simple4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple4/.idea/simple4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple4/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple4/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple4/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple4/smplStr/kvadrat.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple4/smplStr/kvadrat.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple5/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple5/.idea/simple5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple5/.idea/simple5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple5/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple5/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple5/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple5/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple5/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.5_struct/simple5/smplStr/kvadrat.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.5_struct/simple5/smplStr/kvadrat.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.7_methods/.idea/7.7_methods.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.7_methods/.idea/7.7_methods.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.7_methods/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.7_methods/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.7_methods/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.7_methods/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.7_methods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.7_methods/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.7_methods/homework.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.7_methods/homework.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.7_methods/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.7_methods/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.7_methods/main2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.7_methods/main2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.7_methods/main3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.7_methods/main3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/.idea/7.8_calc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/.idea/7.8_calc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calc/.idea/calc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calc/.idea/calc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calc/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calc/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calc/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calc/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calc/calc/calc.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calc/calc/calc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calc/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calc/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calc/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calc/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calculatorstr/.idea/calculatorstr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calculatorstr/.idea/calculatorstr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calculatorstr/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calculatorstr/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calculatorstr/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calculatorstr/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calculatorstr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calculatorstr/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calculatorstr/calcul/calculator.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calculatorstr/calcul/calculator.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calculatorstr/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calculatorstr/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.8_calc/calculatorstr/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/7.8_calc/calculatorstr/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.2_recursion/.idea/8.2_recursion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.2_recursion/.idea/8.2_recursion.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.2_recursion/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.2_recursion/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.2_recursion/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.2_recursion/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.2_recursion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.2_recursion/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.2_recursion/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.2_recursion/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.2_recursion/main0.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.2_recursion/main0.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.2_recursion/main2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.2_recursion/main2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.3 error/.idea/lesson 8.3 error.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.3 error/.idea/lesson 8.3 error.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.3 error/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.3 error/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.3 error/error.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.3 error/error.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.3 error/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.3 error/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.3 error/main2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.3 error/main2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.3 error/task8.3.2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.3 error/task8.3.2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.3 error/task8.3.3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.3 error/task8.3.3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.4_panic/.idea/8.4_panic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.4_panic/.idea/8.4_panic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.4_panic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.4_panic/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.4_panic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.4_panic/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.4_panic/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.4_panic/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.4_panic/main2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.4_panic/main2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.4_panic/main3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.4_panic/main3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.4_panic/main4.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.4_panic/main4.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.4_panic/main5.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.4_panic/main5.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.4_panic/main6.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.4_panic/main6.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.4_panic/task8.4.3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.4_panic/task8.4.3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5_interface/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5_interface/.idea/8.5_interface.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5_interface/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5_interface/example.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5_interface/home.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5_interface/homevorke3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5_interface/homeworke.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5_interface/homeworke2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5_interface/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5_interface/main2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5_interface/main3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5_interface/main4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5_interface/main5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/.idea/8.7_homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/.idea/8.7_homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/8.7.1_homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/8.7.1_homework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/8.7.1_homework/electronic/electronic.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/8.7.1_homework/electronic/electronic.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/8.7.1_homework/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/8.7.1_homework/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/8.7.1_homework/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/8.7.1_homework/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/8.7_homework/.idea/HW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/8.7_homework/.idea/HW.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/8.7_homework/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/8.7_homework/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/8.7_homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/8.7_homework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/8.7_homework/electronic/electronic.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/8.7_homework/electronic/electronic.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/8.7_homework/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/8.7_homework/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/8.7_homework/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/8.7_homework/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/HW/.idea/HW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/HW/.idea/HW.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/HW/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/HW/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/HW/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/HW/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/HW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/HW/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/HW/electronic/electronic.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/HW/electronic/electronic.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/HW/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/HW/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/HW/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/HW/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/interF/.idea/interF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/interF/.idea/interF.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/interF/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/interF/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/interF/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/interF/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/interF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/interF/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/interF/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/interF/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/interF/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/interF/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/interF/models/MyOwnAlarm.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/interF/models/MyOwnAlarm.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/interF/models/alarm.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/interF/models/alarm.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/interF2/.idea/interF2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/interF2/.idea/interF2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/interF2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/interF2/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/interF2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/interF2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/interF2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/interF2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/interF2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/interF2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/main1.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/main1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/main2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/main2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/struct/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/struct/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/struct/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/struct/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/example/struct/models/User.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/example/struct/models/User.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.7_homeworke/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.7_homeworke/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2_array/.idea/9.2_array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.2_array/.idea/9.2_array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2_array/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.2_array/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2_array/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.2_array/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2_array/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.2_array/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2_array/main2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.2_array/main2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2_array/main3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.2_array/main3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2_array/main4.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.2_array/main4.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2_array/main5.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.2_array/main5.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2_array/main6.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.2_array/main6.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2_array/main7.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.2_array/main7.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2_array/main8.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.2_array/main8.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.3_slice/.idea/9.3_slice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.3_slice/.idea/9.3_slice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.3_slice/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.3_slice/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.3_slice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.3_slice/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.3_slice/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.3_slice/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.3_slice/main2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.3_slice/main2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.3_slice/main3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.3_slice/main3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.3_slice/main4.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.3_slice/main4.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.3_slice/main5.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.3_slice/main5.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.6_string/.idea/9.6_string.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.6_string/.idea/9.6_string.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.6_string/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.6_string/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.6_string/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.6_string/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.6_string/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.6_string/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.7_rune/.idea/9.7_rune.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.7_rune/.idea/9.7_rune.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.7_rune/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.7_rune/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.7_rune/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.7_rune/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.7_rune/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.7_rune/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.7_rune/main2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.7_rune/main2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.8_homework/.idea/9.8_homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.8_homework/.idea/9.8_homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.8_homework/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/9.8_homework/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 8.3 error/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 8.3 error/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Go_Start/8.3_lesson_error/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/.idea/Algoritm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/10.6_array/.idea/10.6_array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/10.6_array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/10.6_array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/10.6_array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/10.6_array/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/10.7_array/.idea/10.7_array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/10.7_array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/10.7_array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/10.7_array/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/10.7_array/main2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/11.2_list/.idea/11.2_list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/11.2_list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/11.2_list/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,11 +54,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kTcJjjzBraHYCpF5wgcCDBfDLU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -362,6 +124,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="lesson 5.3  Variables" />
     <MESSAGE value="lesson 5.4  Variables" />
     <MESSAGE value="lesson 5.4  Basic types" />
@@ -382,61 +145,5 @@
     <MESSAGE value="lesson 7.7 methods" />
     <MESSAGE value="Go_Start" />
     <option name="LAST_COMMIT_MESSAGE" value="Go_Start" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="512" y="263" key="#Go_Modules" timestamp="1605905457951">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="512" y="263" key="#Go_Modules/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605905457951" />
-    <state x="92" y="92" width="1256" height="676" key="DiffContextDialog" timestamp="1606162331592">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="92" y="92" width="1256" height="676" key="DiffContextDialog/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606162331592" />
-    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1606851228843">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="500" y="184" key="FileChooserDialogImpl/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605907455706" />
-    <state x="500" y="184" key="FileChooserDialogImpl/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606851228843" />
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1605900029865">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605900029865" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1605900029865">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.center/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605900029865" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1605900029865">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.left/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605900029865" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1605900029865">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.right/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605900029865" />
-    <state x="221" y="74" key="SettingsEditor" timestamp="1606664074197">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="221" y="74" key="SettingsEditor/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606664074197" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1606850310406">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605910167635" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606850310406" />
-    <state x="537" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605818398753">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="537" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605818398753" />
-    <state x="119" y="-705" width="1174" height="621" maximized="true" key="dock-window-1" timestamp="1606596400125">
-      <screen x="-2" y="-903" width="1440" height="860" />
-    </state>
-    <state x="119" y="-705" width="1174" height="621" maximized="true" key="dock-window-1/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606596400125" />
-    <state x="427" y="29" width="585" height="801" key="find.popup" timestamp="1606595927327">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="427" y="29" width="585" height="801" key="find.popup/-2.-903.1440.860/-1440.8.1440.860/0.0.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1606595927327" />
-    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1605822673550">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/-1440.8.1440.860/0.0.1440.860/-2.-903.1440.860/-1442.-892.1440.860@0.0.1440.860" timestamp="1605822673550" />
   </component>
 </project>

@@ -2,9 +2,9 @@ package main
 
 import "fmt"
 
-func main()  {
+func main() {
 
-	 var c int32
+	var c int32
 
 	fmt.Println("Введите число")
 	fmt.Scan(&c)
