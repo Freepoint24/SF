@@ -41,5 +41,3 @@ func main() {
 	list = Remove(list, 4)
 	fmt.Println(list)
 }
-
-//
