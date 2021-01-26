@@ -6,11 +6,11 @@ import (
 )
 
 func main() {
-	//запись шахамтных ходов на основе связного списка
+	//запись шахматных ходов на основе связного списка
 	//создаем пустой список
 	queue := list.New()
 
-	queue.PushBack("e4, e5") // Добавление в очередь каждого хода
+	queue.PushFront("e4, e5") // Добавление в очередь каждого хода
 	queue.PushBack("c4, c6")
 	queue.PushBack("h5, f6")
 	queue.PushBack("xf7")
@@ -18,7 +18,16 @@ func main() {
 	//Вывод первого и последнего хода
 	x := queue.Front() // Первый ход
 	fmt.Println("Первый ход:", x.Value)
-	y := queue.Back() // Послдений ход
+	y := queue.Back() // Последний ход
 	fmt.Println("Последний ход:", y.Value)
+	//z := queue.Len()
+	//всего ходов
+	//fmt.Println(*queue)
+	for e := queue.Front(); e != nil; e = e.Next() {
+		fmt.Println(e.Value)
+
+	}
+
+	// Печать всех ходов
 
 }
