@@ -2,7 +2,13 @@ package main
 
 import (
 	"fmt"
+	"math/rand"
+	"time"
 )
+
+func init() {
+	rand.Seed(time.Now().UnixNano()) // необходимо для того, чтобы рандом был похож на рандомный
+}
 
 func main() {
 	ar := []int{3, 4, 1, 2, 5, 7, -1, 0}

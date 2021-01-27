@@ -27,12 +27,12 @@ func bubbleSort(ar []int) {
 	for i := 0; i < len(ar); i++ {
 		for j := len(ar) - 1; j > i; j-- {
 			if ar[j-1] < ar[j] {
-				temp(ar, j-1, j)
+				swap(ar, j-1, j)
 			}
 		}
 	}
 }
-func temp(ar []int, i, j int) {
+func swap(ar []int, i, j int) {
 	tmp := ar[i]
 	ar[i] = ar[j]
 	ar[j] = tmp
