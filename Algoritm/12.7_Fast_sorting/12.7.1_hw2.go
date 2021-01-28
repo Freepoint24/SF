@@ -6,6 +6,8 @@ import (
 	"time"
 )
 
+//https://play.golang.org/p/ltbNwisNTFg
+
 var index, start, end int
 
 func init() {
