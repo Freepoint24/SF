@@ -8,6 +8,7 @@ import (
 
 //ЗАДАНИЕ 12.6.1
 //Реализуйте сортировку слиянием, Merge sort
+//https://play.golang.org/p/VG22YnyRe9F
 
 func init() {
 	rand.Seed(time.Now().UnixNano()) // необходимо для того, чтобы рандом был похож на рандомный
