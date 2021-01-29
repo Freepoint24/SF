@@ -7,12 +7,14 @@ import (
 )
 
 //алгоритм сортировки пузырьком - bubble sort, отсортирует массив int по убыванию.
-//https://play.golang.org/p/12v0Ozq-Qla
+//https://play.golang.org/p/O__U6ClWSm_o
 func init() {
 	rand.Seed(time.Now().UnixNano()) // необходимо для того, чтобы рандом был похож на рандомный
 }
 
 func main() {
+	//ar :=[]int{6, 5, 3, 1, 8, 7, 2, 4}
+	//ar :=[]int{1, 5, 6, 0, 10, -7, 3, 8, 4, 2, 7}
 	ar := make([]int, 50)
 	for i := range ar {
 		ar[i] = rand.Intn(200) - 100 // ограничиваем случайно значение от [-100;100]
@@ -25,7 +27,7 @@ func main() {
 
 //ваш код здесь
 func bubbleSort(ar []int) {
-	// sort on the left - по убыванию
+	// sort on the right - по убыванию
 	fmt.Printf("Unsorted list:\t%v\n", ar) //не сортированный массив
 	fmt.Println("")
 	for i := 0; i < (len(ar) - 1); i++ {
@@ -34,23 +36,6 @@ func bubbleSort(ar []int) {
 				ar[j], ar[j+1] = ar[j+1], ar[j]
 			}
 		}
-		//fmt.Printf("Sorting ...:\t%v\n", ar) //визуальное представление сортировки
+		fmt.Printf("Sorting ...:\t%v\n", ar) //визуальное представление сортировки
 	}
 }
-
-//вариант реализации
-//https://play.golang.org/p/tPE0T6_DXka
-//for i := 0; i < len(ar); i++ {
-//for j := len(ar) - 1; j > i; j-- {
-//if ar[j-1] < ar[j] {
-//swap(ar, j-1, j)
-//			}
-//		}
-//		}
-//}
-//func swap(ar []int, i, j int) {
-//	tmp := ar[i]
-//	ar[i] = ar[j]
-//	ar[j] = tmp
-//fmt.Printf("Sorting ...:\t%v\n", ar) //визуальное представление сортировки
-//}
