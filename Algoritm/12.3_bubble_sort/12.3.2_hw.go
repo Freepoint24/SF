@@ -6,9 +6,9 @@ import (
 	"time"
 )
 
-//алгоритм сортировки пузырьком - bubble sort, отсортирует массив int по возрастанию.
+//12.3.2 алгоритм сортировки пузырьком - bubble sort, отсортирует массив int по возрастанию.
 //учебный пример
-//https://play.golang.org/p/FKYeyt3lSUS
+//https://play.golang.org/p/jwIZN_WL8sg
 
 func init() {
 	rand.Seed(time.Now().UnixNano()) // необходимо для того, чтобы рандом был похож на рандомный
@@ -22,16 +22,15 @@ func main() {
 		ar[i] = rand.Intn(200) - 100 // ограничиваем случайно значение от [-100;100]
 	}
 
+	fmt.Printf("Unsorted list:\t%v\n", ar) //не сортированный массив
+	fmt.Println("")
 	bubbleSort(ar)
 	fmt.Println("")
 	fmt.Printf("Sorted list:\t%v\n", ar) //отсортированный масссив
 }
 
-//ваш код здесь
+//ваш код здесь sort on the left - по возрастанию
 func bubbleSort(ar []int) {
-	// sort on the right - по убыванию
-	fmt.Printf("Unsorted list:\t%v\n", ar) //не сортированный массив
-	fmt.Println("")
 	for i := 0; i < (len(ar) - 1); i++ {
 		for j := 0; j < ((len(ar) - 1) - i); j++ {
 			if ar[j] > ar[j+1] {

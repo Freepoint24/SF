@@ -16,7 +16,7 @@
 
 //алгоритм сортировки пузырьком - bubble sort, отсортирует массив int по возрастанию.
 //учебный пример
-//https://play.golang.org/p/FKYeyt3lSUS
+//https://play.golang.org/p/jwIZN_WL8sg
 //учебный пример
 //алгоритм сортировки пузырьком - bubble sort, отсортирует массив int по убыванию.
-//https://play.golang.org/p/O__U6ClWSm_o
+//https://play.golang.org/p/ICaHAehXedA
