@@ -6,12 +6,7 @@ import (
 )
 
 func BenchmarkBubbleSort(b *testing.B) {
-	b.SetBytes(1000000)
-	//for i := 0; i < b.N; i++ {
-	//	if x := fmt.Sprintf("%d", 42); x != "42" {
-	//		b.Fatalf("Unexpected string: %s", x)
-	//	}
-	//}
+	b.SetBytes(100000000000000000)
 }
 
 //func BenchmarkBubbleSort(b *testing.B) {
