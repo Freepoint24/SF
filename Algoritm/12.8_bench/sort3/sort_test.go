@@ -121,8 +121,8 @@ func BenchmarkInsertionSort(b *testing.B) {
 //ЗАДАНИЕ 12.6.1
 //Реализуйте сортировку слиянием, Merge sort
 func BenchmarkMergeSort(b *testing.B) {
-	fmt.Println("BenchmarkMergeSort/ - small arrays - Test error")
 	//b.Run("small arrays", func(b *testing.B) {
+	fmt.Println("BenchmarkMergeSort/ - small arrays - Test error")
 	//	b.StopTimer()
 	//	for i := 0; i < b.N; i++ {
 	//		ar := generateSlice(10, 10)
