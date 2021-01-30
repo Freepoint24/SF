@@ -86,7 +86,7 @@ func BenchmarkSelectionSort(b *testing.B) {
 //Insertion sort (Сортировка выбором)
 func BenchmarkInsertionSort(b *testing.B) {
 	// провал теста
-	fmt.Println("BenchmarkInsertionSort - small arrays - Test error")
+	fmt.Println("BenchmarkInsertionSort/ - small arrays - Test error")
 	//b.Run("small arrays", func(b *testing.B) {
 	//	b.StopTimer()
 	//	for i := 0; i < b.N; i++ {
@@ -121,18 +121,19 @@ func BenchmarkInsertionSort(b *testing.B) {
 //ЗАДАНИЕ 12.6.1
 //Реализуйте сортировку слиянием, Merge sort
 func BenchmarkMergeSort(b *testing.B) {
-	b.Run("small arrays", func(b *testing.B) {
-		b.StopTimer()
-		for i := 0; i < b.N; i++ {
-			ar := generateSlice(10, 10)
-			b.StartTimer()
-			bubbleSort(ar)
-			b.StopTimer()
-		}
-	})
+	fmt.Println("BenchmarkMergeSort/ - small arrays - Test error")
+	//b.Run("small arrays", func(b *testing.B) {
+	//	b.StopTimer()
+	//	for i := 0; i < b.N; i++ {
+	//		ar := generateSlice(10, 10)
+	//		b.StartTimer()
+	//		bubbleSort(ar)
+	//		b.StopTimer()
+	//	}
+	//})
 	//провал теста
 	//b.Run("middle arrays", func(b *testing.B) {
-	fmt.Println("BenchmarkMergeSort - middle arrays - Test error")
+	fmt.Println("BenchmarkMergeSort/ - middle arrays - Test error")
 	//	b.StopTimer()
 	//	for i := 0; i < b.N; i++ {
 	//		ar := generateSlice(100, 1000)
@@ -157,7 +158,7 @@ func BenchmarkMergeSort(b *testing.B) {
 func BenchmarkQuickSort(b *testing.B) {
 	//провал теста
 	//b.Run("small arrays", func(b *testing.B) {
-	fmt.Println("BenchmarkQuickSort - small arrays - Test error")
+	fmt.Println("BenchmarkQuickSort/ - small arrays - Test error")
 	//	b.StopTimer()
 	//	for i := 0; i < b.N; i++ {
 	//		ar := generateSlice(10, 10)
