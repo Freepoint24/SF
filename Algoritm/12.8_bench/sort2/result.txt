@@ -1,0 +1,20 @@
+goos: linux
+goarch: amd64
+pkg: benchForSort
+BenchmarkBubbleSort/small_arrays-6               2059152               590 ns/op
+BenchmarkBubbleSort/middle_arrays-6                  531           2076914 ns/op
+BenchmarkBubbleSort/big_arrays-6                       1        19451567031 ns/op
+BenchmarkSelectionSort/small_arrays-6            2002122               608 ns/op
+BenchmarkSelectionSort/middle_arrays-6               596           2022031 ns/op
+BenchmarkSelectionSort/big_arrays-6                    1        19773796927 ns/op
+small arrays - Test error
+BenchmarkInsertionSort/middle_arrays-6               570           1998040 ns/op
+BenchmarkInsertionSort/big_arrays-6                    1        19737190841 ns/op
+BenchmarkMergeSort/small_arrays-6                1959362               598 ns/op
+middle arrays - Test error
+BenchmarkMergeSort/big_arrays-6                        1        19217492482 ns/op
+small arrays - Test error
+BenchmarkQuickSort/middle_arrays-6                   614           1926272 ns/op
+BenchmarkQuickSort/big_arrays-6                        1        19142127415 ns/op
+PASS
+ok      benchForSort    641.701s
