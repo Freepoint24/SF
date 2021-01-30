@@ -8,13 +8,15 @@ import (
 
 //ЗАДАНИЕ 12.6.1
 //Реализуйте сортировку слиянием, Merge sort
-//https://play.golang.org/p/VG22YnyRe9F
+//https://play.golang.org/p/UiNZ2qSRdhd
 
 func init() {
 	rand.Seed(time.Now().UnixNano()) // необходимо для того, чтобы рандом был похож на рандомный
 }
 
 func main() {
+	//ar :=[]int{6,5, 3, 1, 8, 7, 2, 4} // пример из задания
+	//ar :=[]int{1, 5, 6, 0, 10, -7, 3, 8, 4, 2, 7}
 	ar := make([]int, 50)
 	for i := range ar {
 		ar[i] = rand.Intn(200) - 100 // ограничиваем случайно значение от [-100;100]
