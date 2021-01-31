@@ -42,6 +42,6 @@ func swap(ar []int, i, j int) {
 	tmp := ar[i]
 	ar[i] = ar[j]
 	ar[j] = tmp
-	//fmt.Printf("Sorting ...:\t%v\n", ar) //визуальное представление сортировки
+	fmt.Printf("Sorting ...:\t%v\n", ar) //визуальное представление сортировки
 
 }
