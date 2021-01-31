@@ -29,14 +29,6 @@ func main() {
 	fmt.Printf("Sorted list:\t%v\n", sorted) // сортированный массив
 }
 
-func BenchmarkMergeSort(b *testing.B) {
-	b.ReportAllocs()
-	for i := 0; i < b.N; i++ {
-		buf.Reset()
-		testHeader.WriteSubset(&buf, nil)
-	}
-}
-
 // ваш код здесь
 func mergeSort(m []int) []int {
 	if len(m) <= 1 {
