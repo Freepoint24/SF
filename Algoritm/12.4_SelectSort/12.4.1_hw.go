@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"math/rand"
+	"testing"
 	"time"
 )
 
@@ -43,7 +44,7 @@ func selectionSort(ar []int) {
 		if min != i {
 			swap(ar, i, min)
 		}
-		fmt.Printf("Sorting ...:\t%v\n", ar) //визуальное представление сортировки
+		//fmt.Printf("Sorting ...:\t%v\n", ar) //визуальное представление сортировки
 	}
 
 }
