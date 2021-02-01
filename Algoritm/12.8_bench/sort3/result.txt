@@ -1,0 +1,188 @@
+goos: linux
+goarch: amd64
+pkg: benchForSort
+BenchmarkBubbleSort/small_arrays-6               2059152               590 ns/op
+BenchmarkBubbleSort/middle_arrays-6                  531           2076914 ns/op
+BenchmarkBubbleSort/big_arrays-6                       1        19451567031 ns/op
+BenchmarkSelectionSort/small_arrays-6            2002122               608 ns/op
+BenchmarkSelectionSort/middle_arrays-6               596           2022031 ns/op
+BenchmarkSelectionSort/big_arrays-6                    1        19773796927 ns/op
+small arrays - Test error
+BenchmarkInsertionSort/middle_arrays-6               570           1998040 ns/op
+BenchmarkInsertionSort/big_arrays-6                    1        19737190841 ns/op
+BenchmarkMergeSort/small_arrays-6                1959362               598 ns/op
+middle arrays - Test error
+BenchmarkMergeSort/big_arrays-6                        1        19217492482 ns/op
+small arrays - Test error
+BenchmarkQuickSort/middle_arrays-6                   614           1926272 ns/op
+BenchmarkQuickSort/big_arrays-6                        1        19142127415 ns/op
+PASS
+ok      benchForSort    641.701s
+/////////////////////////////////////////////////////////////////////////////////////////////
+goos: linux
+goarch: amd64
+pkg: benchForSort
+BenchmarkBubbleSort/small_arrays-6               2059152               590 ns/op
+BenchmarkBubbleSort/middle_arrays-6                  531           2076914 ns/op
+BenchmarkBubbleSort/big_arrays-6                       1        19451567031 ns/op
+BenchmarkSelectionSort/small_arrays-6            2002122               608 ns/op
+BenchmarkSelectionSort/middle_arrays-6               596           2022031 ns/op
+BenchmarkSelectionSort/big_arrays-6                    1        19773796927 ns/op
+small arrays - Test error
+BenchmarkInsertionSort/middle_arrays-6               570           1998040 ns/op
+BenchmarkInsertionSort/big_arrays-6                    1        19737190841 ns/op
+BenchmarkMergeSort/small_arrays-6                1959362               598 ns/op
+middle arrays - Test error
+BenchmarkMergeSort/big_arrays-6                        1        19217492482 ns/op
+small arrays - Test error
+BenchmarkQuickSort/middle_arrays-6                   614           1926272 ns/op
+BenchmarkQuickSort/big_arrays-6                        1        19142127415 ns/op
+PASS
+ok      benchForSort    641.701s
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+goos: linux
+goarch: amd64
+pkg: benchForSort
+BenchmarkBubbleSort/small_arrays-6               1975777               607 ns/op
+BenchmarkBubbleSort/middle_arrays-6                  576           1962511 ns/op
+BenchmarkBubbleSort/big_arrays-6                       1        19694775462 ns/op
+BenchmarkSelectionSort/small_arrays-6            1986085               608 ns/op
+BenchmarkSelectionSort/middle_arrays-6               507           2150022 ns/op
+BenchmarkSelectionSort/big_arrays-6                    1        21172649207 ns/op
+BenchmarkInsertionSort - small arrays - Test error
+BenchmarkInsertionSort/middle_arrays-6               529           2205082 ns/op
+BenchmarkInsertionSort/big_arrays-6                    1        21201115924 ns/op
+BenchmarkMergeSort/small_arrays-6                2004400               601 ns/op
+BenchmarkMergeSort - middle arrays - Test error
+SIGQUIT: quit
+PC=0x46c781 m=0 sigcode=0
+////////////////////////////////////////////////////////////////////////////////////
+goos: linux
+goarch: amd64
+pkg: benchForSort
+BenchmarkBubbleSort/small_arrays-6               2013394               599 ns/op
+BenchmarkBubbleSort/middle_arrays-6                  592           2013490 ns/op
+BenchmarkBubbleSort/big_arrays-6                       1        20231530692 ns/op
+BenchmarkSelectionSort/small_arrays-6            1975362               606 ns/op
+BenchmarkSelectionSort/middle_arrays-6               608           1912873 ns/op
+BenchmarkSelectionSort/big_arrays-6                    1        19111433450 ns/op
+BenchmarkInsertionSort/ - small arrays - Test error
+BenchmarkInsertionSort/middle_arrays-6               614           1920607 ns/op
+BenchmarkInsertionSort/big_arrays-6                    1        18918849796 ns/op
+BenchmarkMergeSort/ - small arrays - Test error
+BenchmarkMergeSort/ - middle arrays - Test error
+BenchmarkMergeSort/big_arrays-6                        1        18931711507 ns/op
+BenchmarkQuickSort/ - small arrays - Test error
+BenchmarkQuickSort/middle_arrays-6                   606           1958567 ns/op
+BenchmarkQuickSort/big_arrays-6                        1        19009870866 ns/op
+PASS
+ok      benchForSort    485.419s
+/////////////////////////////////////////////////////////////////////////////////
+alex@alex:/media/alex/Rabota/CODE/SF/Algoritm/12.8_bench/sort3$ go test -bench=. ./...
+goos: linux
+goarch: amd64
+pkg: benchForSort
+BenchmarkBubbleSort/small_arrays-6               2131586               589 ns/op
+BenchmarkBubbleSort/middle_arrays-6                  549           2143407 ns/op
+BenchmarkBubbleSort/big_arrays-6                       1        21918498518 ns/op
+BenchmarkSelectionSort/small_arrays-6            1958252               597 ns/op
+BenchmarkSelectionSort/middle_arrays-6               547           2152480 ns/op
+BenchmarkSelectionSort/big_arrays-6                    1        21699367330 ns/op
+BenchmarkInsertionSort/ - small arrays - Test error
+BenchmarkInsertionSort/middle_arrays-6               543           2157111 ns/op
+BenchmarkInsertionSort/big_arrays-6                    1        21297325803 ns/op
+BenchmarkMergeSort/ - small arrays - Test error
+BenchmarkMergeSort/ - middle arrays - Test error
+BenchmarkMergeSort/big_arrays-6                        1        21417644035 ns/op
+BenchmarkQuickSort/ - small arrays - Test error
+BenchmarkQuickSort/middle_arrays-6                   536           2131781 ns/op
+BenchmarkQuickSort/big_arrays-6                        1        21294486276 ns/op
+PASS
+ok      benchForSort    485.967s
+////////////////////////////////////////////////////////////////////////////////////
+goos: linux
+goarch: amd64
+pkg: benchForSort
+BenchmarkBubbleSort/small_arrays-6               1881744               637 ns/op
+BenchmarkBubbleSort/middle_arrays-6                  435           2942985 ns/op
+BenchmarkBubbleSort/big_arrays-6                       1        21896254645 ns/op
+BenchmarkBubbleSort/SMOLL_small_arrays-6           54019             24473 ns/op
+BenchmarkBubbleSort/BIG_big_arrays-6                   1        329738975098 ns/op
+
+BenchmarkSelectionSort/small_arrays-6           SIGQUIT: quit
+BenchmarkSelectionSort/small_arrays-6            1927006               630 ns/op
+BenchmarkSelectionSort/middle_arrays-6               561           2056372 ns/op
+BenchmarkSelectionSort/big_arrays-6                    1        21272017231 ns/op
+BenchmarkSelectionSort/SMOLL_small_arrays-6      1860493               641 ns/op
+BenchmarkSelectionSort/small_arrays-6            1927006               630 ns/op
+BenchmarkSelectionSort/middle_arrays-6               561           2056372 ns/op
+BenchmarkSelectionSort/big_arrays-6                    1        21272017231 ns/op
+BenchmarkSelectionSort/SMOLL_small_arrays-6      1860493               641 ns/op
+SIGQUIT: quit
+BenchmarkInsertionSort/small_arrays-6            1929337               649 ns/op
+BenchmarkInsertionSort/middle_arrays-6               594           1968881 ns/op
+BenchmarkInsertionSort/big_arrays-6                    1        20512694770 ns/op
+BenchmarkInsertionSort/SMOLL_small_arrays-6      1929218               623 ns/op
+SIGQUIT: quit
+BenchmarkMergeSort/small_arrays-6                1865653               641 ns/op
+BenchmarkMergeSort/middle_arrays-6                   538           2207187 ns/op
+BenchmarkMergeSort/big_arrays-6                        1        20870906900 ns/op
+BenchmarkMergeSort/SMOLL_small_arrays-6          1877673               639 ns/op
+SIGQUIT: quit
+
+////////////////////////////////////////////////////////////////////////////////////
+BenchmarkQuickSort/small_arrays-6                1863004               646 ns/op
+BenchmarkQuickSort/middle_arrays-6                   536           2313593 ns/op
+BenchmarkQuickSort/big_arrays-6                        1        22315841337 ns/op
+BenchmarkQuickSort/SMOLL_small_arrays-6          1867069               644 ns/op
+SIGQUIT: quit
+BenchmarkSelectionSort/small_arrays-6            1852347               651 ns/op
+BenchmarkSelectionSort/middle_arrays-6               448           2289295 ns/op
+BenchmarkSelectionSort/big_arrays-6                    1        22909114706 ns/op
+BenchmarkSelectionSort/SMOLL_small_arrays-6      1886926               640 ns/op
+BenchmarkInsertionSort/small_arrays-6           SIGQUIT: quit
+PC=0x46c781 m=0 sigcode=0
+
+BenchmarkInsertionSort/SMOLL_small_arrays-6              3252992               375 ns/op
+BenchmarkQuickSort/small_arrays-6                        2503578               408 ns/op
+BenchmarkQuickSort/middle_arrays-6                           586           2019190 ns/op
+BenchmarkQuickSort/big_arrays-6                                1        19885429900 ns/op
+BenchmarkQuickSort/SMOLL_small_arrays-6                  3690397               345 ns/op
+PASS
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+goos: windows
+goarch: amd64
+pkg: benchForSort
+BenchmarkBubbleSort/small_arrays-6               2154073               515 ns/op
+BenchmarkBubbleSort/middle_arrays-6                  516           2187937 ns/op
+BenchmarkBubbleSort/big_arrays-6                       1        22833420800 ns/op
+BenchmarkSelectionSort/small_arrays-6            4291246               309 ns/op
+BenchmarkSelectionSort/middle_arrays-6               649           1859803 ns/op
+BenchmarkSelectionSort/big_arrays-6                    1        19730066900 ns/op
+BenchmarkInsertionSort/small_arrays-6           *** Test killed: ran too long (11m0s).
+exit status 1
+FAIL    benchForSort    660.553s
+FAIL
+goos: windows
+goarch: amd64
+pkg: benchForSort
+BenchmarkInsertionSort/small_arrays-6            3400792               514 ns/op
+BenchmarkInsertionSort/middle_arrays-6               560           2180358 ns/op
+BenchmarkInsertionSort/big_arrays-6                    1        21936320500 ns/op
+BenchmarkMergeSort/small_arrays-6                2593344               525 ns/op
+BenchmarkMergeSort/middle_arrays-6                   541           2381154 ns/op
+BenchmarkMergeSort/big_arrays-6                        1        23462115200 ns/op
+BenchmarkQuickSort/small_arrays-6                2335946               507 ns/op
+BenchmarkQuickSort/middle_arrays-6                   538           2238309 ns/op
+BenchmarkQuickSort/big_arrays-6                        1        19532806000 ns/op
+PASS
+ok      benchForSort    564.323s
+goos: windows
+goarch: amd64
+pkg: benchForSort
+BenchmarkQuickSort/small_arrays-6                2773266               466 ns/op
+BenchmarkQuickSort/middle_arrays-6                   454           2422016 ns/op
+BenchmarkQuickSort/big_arrays-6                        1        24183325700 ns/op
+PASS
+ok      benchForSort    189.915s
