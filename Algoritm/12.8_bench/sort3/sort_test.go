@@ -142,6 +142,7 @@ func BenchmarkInsertionSort(b *testing.B) {
 	})
 
 	b.Run("middle arrays", func(b *testing.B) {
+		b.ReportAllocs()
 		b.StopTimer()
 		for i := 0; i < b.N; i++ {
 			ar := generateSlice(100, 1000)
@@ -152,6 +153,7 @@ func BenchmarkInsertionSort(b *testing.B) {
 	})
 
 	b.Run("big arrays", func(b *testing.B) {
+		b.ReportAllocs()
 		b.StopTimer()
 		for i := 0; i < b.N; i++ {
 			ar := generateSlice(10000, 100000)
