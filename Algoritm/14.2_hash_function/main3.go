@@ -30,10 +30,8 @@ func main() {
 		num += d * Pow(10, length-i-1)
 	}
 	fmt.Println(num)
+
 	//3. найти остаток от деленя на 1000
-
 	z := num % 1000
-
 	fmt.Println(z)
-
 }
