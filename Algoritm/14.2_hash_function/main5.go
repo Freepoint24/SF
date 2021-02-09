@@ -14,15 +14,12 @@ func main() {
 	if err != nil {
 		fmt.Printf("ошибка при вводе числа")
 		return
+
+		func hashint64(val int64) uint64{
+			//z := 164654
+			//x := 1000
+			val = z % 1000 //x
+			fmt.Println(val)
+			return uint64(val)
+		}
 	}
-
-}
-
-func hashint64(val int) uint {
-	//z := 164654
-	//x := 1000
-	val = z % 1000 //x
-	fmt.Println(val)
-	return uint(val)
-
-}
