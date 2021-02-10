@@ -5,7 +5,7 @@ import (
 	"strconv"
 )
 
-func hashuint64(val uint64) uint64 {
+func hashstr(val uint64) uint64 {
 	return (val % 1000)
 }
 
@@ -19,8 +19,8 @@ func main() {
 		s += i
 	}
 	sn, _ := strconv.ParseUint(s, 10, 64)
-	fmt.Println("source number:", sn)
+	fmt.Println("source number:", sn) //входные данные
 
-	res := hashuint64(sn)
-	fmt.Println("result: ", res)
+	res := hashstr(sn)
+	fmt.Println("result: ", res) // хэш
 }

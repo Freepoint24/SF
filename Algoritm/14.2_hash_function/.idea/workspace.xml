@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16430690-805f-43f2-b6c7-8bbb1c2e210a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main6.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Go_Start/6.8_calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Go_Start/6.8_calculator/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Go_Start/6.8_calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Go_Start/6.8_calculator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Go_Start/7.8_calc/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Go_Start/7.8_calc/.idea/vcs.xml" afterDir="false" />
@@ -61,6 +59,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson 14.2 has_function" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 14.2 has_function" />
+    <MESSAGE value="lesson 14.2_hash_function" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 14.2_hash_function" />
   </component>
 </project>
