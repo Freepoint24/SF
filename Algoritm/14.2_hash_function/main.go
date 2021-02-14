@@ -18,7 +18,7 @@ func main() {
 
 }
 
-func hashint64(val int) uint {
+//func hashint64(val int) uint {
 	//z := 164654
 	//x := 1000
 	val = z % 1000 //x
