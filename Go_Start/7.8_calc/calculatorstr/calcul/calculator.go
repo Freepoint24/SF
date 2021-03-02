@@ -36,5 +36,4 @@ func (a *calculator) Calc(output, number1, number2 float64, operator string) flo
 		fmt.Println("Ошибка")
 	}
 	return output
-
 }
