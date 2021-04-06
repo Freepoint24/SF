@@ -38,6 +38,6 @@ func main() {
 	fmt.Println(list)
 	list = Insert(list, 0, 0)
 	fmt.Println(list)
-	list = Remove(list, 4)
+	list = Remove(list, 3)
 	fmt.Println(list)
 }
