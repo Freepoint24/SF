@@ -19,8 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="">
+    <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="lesson 12.3_bubble sort">
+      <change afterPath="$PROJECT_DIR$/Algoritm/12.3_bubble_sort/main0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/algo/binary_search_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/algo/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/11.2_list/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/11.2_list/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/12.3_bubble_sort/12.3.2_hw.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.3_bubble_sort/12.3.2_hw.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="C:\Go" />
+  <component name="GOROOT" url="file:///snap/go/7221" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -50,6 +55,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
@@ -58,6 +64,10 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
@@ -75,8 +85,8 @@
       <module name="SF" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/5.7_Package/Packege2.go" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/5.7_Package/Packege2.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build SF/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
@@ -132,6 +142,8 @@
     <MESSAGE value="Go_Start" />
     <MESSAGE value="lesson 11.3 singly linked list" />
     <MESSAGE value="lesson 12.8_bench hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 12.8_bench hw" />
+    <MESSAGE value="lesson 12.6_Merge_sort" />
+    <MESSAGE value="lesson 12.3_bubble sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 12.3_bubble sort" />
   </component>
 </project>
