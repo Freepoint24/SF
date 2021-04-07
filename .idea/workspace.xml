@@ -19,13 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="lesson 12.3_bubble sort">
-      <change afterPath="$PROJECT_DIR$/Algoritm/12.3_bubble_sort/main0.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/algo/binary_search_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/algo/main.go" afterDir="false" />
+    <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="algo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/11.2_list/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/11.2_list/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algoritm/12.3_bubble_sort/12.3.2_hw.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.3_bubble_sort/12.3.2_hw.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/12.4_SelectSort/12.4.1_hw.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.4_SelectSort/12.4.1_hw.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +117,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lesson 5.3  Variables" />
     <MESSAGE value="lesson 5.4  Variables" />
     <MESSAGE value="lesson 5.4  Basic types" />
     <MESSAGE value="lesson 5.8 Compilation and homework" />
@@ -144,6 +140,8 @@
     <MESSAGE value="lesson 12.8_bench hw" />
     <MESSAGE value="lesson 12.6_Merge_sort" />
     <MESSAGE value="lesson 12.3_bubble sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 12.3_bubble sort" />
+    <MESSAGE value="lesson 11.2_list" />
+    <MESSAGE value="algo" />
+    <option name="LAST_COMMIT_MESSAGE" value="algo" />
   </component>
 </project>
