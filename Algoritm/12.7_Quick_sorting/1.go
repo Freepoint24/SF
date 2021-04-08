@@ -1,26 +1,15 @@
-package main
+//package main
 
 import (
 	"fmt"
-	"math/rand"
-	"time"
+
+	"github.com/dreddsa5dies/algorithm/util"
 )
 
 var index, start, end int
 
-func init() {
-	rand.Seed(time.Now().UnixNano()) // необходимо для того, чтобы рандом был похож на рандомный
-}
-
 func main() {
-	s1 := make([]int, 50)
-	for i := range s1 {
-		s1[i] = rand.Intn(200) - 100 // ограничиваем случайно значение от [-100;100]
-	}
-	//quickSort(s1)
-	//fmt.Println(s1)
-
-	//s1 := util.RandomInt() // срез int
+	s1 := util.RandomInt() // срез int
 	fmt.Printf("Unsorted list:\t%v\n", s1)
 	fmt.Println("")
 	sort(s1, 0, len(s1)-1)

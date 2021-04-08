@@ -19,11 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="lesson 12.5 insertion sort">
+    <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="lesson 12.6 merge sort">
+      <change afterPath="$PROJECT_DIR$/Algoritm/12.7_Quick_sorting/12.7.1_hw_v2.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/12.6_Merge_sort/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.6_Merge_sort/1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/12.6_Merge_sort/12.6.1_hw.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.6_Merge_sort/12.6.1_hw.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/12.6_Merge_sort/main3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.6_Merge_sort/main3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/12.7_Fast_sorting/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.7_Quick_sorting/1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/12.7_Fast_sorting/12.7.1.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.7_Quick_sorting/12.7.1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/12.7_Fast_sorting/12.7.1_001.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.7_Quick_sorting/12.7.1_001.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/12.7_Fast_sorting/12.7.1_hw.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.7_Quick_sorting/12.7.1_hw.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/12.7_Fast_sorting/2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.7_Quick_sorting/2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/12.7_Fast_sorting/3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.7_Quick_sorting/3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/12.7_Fast_sorting/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.7_Quick_sorting/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +66,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Algoritm/12.5_Insertion sort" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Algoritm/12.7_Quick_sorting" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -70,6 +75,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algoritm/12.7_Quick_sorting" />
       <recent name="$PROJECT_DIR$/Algoritm/12.5_Insertion sort" />
       <recent name="$PROJECT_DIR$/Algoritm/12.4_SelectSort" />
       <recent name="$PROJECT_DIR$/Algoritm/12.3_bubble_sort" />
@@ -121,7 +127,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lesson 6.4 Cycles" />
     <MESSAGE value="lesson 5.4 Basic types" />
     <MESSAGE value="lesson 6.8 output" />
     <MESSAGE value="lesson 6.6 input" />
@@ -146,6 +151,7 @@
     <MESSAGE value="lesson 12.3 bubble sort" />
     <MESSAGE value="lesson 12.4 Select sort" />
     <MESSAGE value="lesson 12.5 insertion sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 12.5 insertion sort" />
+    <MESSAGE value="lesson 12.6 merge sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 12.6 merge sort" />
   </component>
 </project>

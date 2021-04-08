@@ -1,4 +1,4 @@
-package main
+//package main
 
 import (
 	"fmt"
@@ -16,49 +16,58 @@ func init() {
 }
 
 func main() {
-	//ar := make([]int, 50)
-	//for i := range ar {
-	//	ar[i] = rand.Intn(200) - 100 // ограничиваем случайно значение от [-100;100]
-	ar := []int{9, 14, 5, -6, 0, 2, -8, 11}
-	fmt.Printf("Unsorted list:\t%v\n", ar)
-	quickSort(ar)
-	fmt.Printf("Sorted list:\t%v\n", ar)
+	ar2 := make([]int, 50)
+	for i := range ar2 {
+		ar2[i] = rand.Intn(200) - 100 // ограничиваем случайно значение от [-100;100]
+	}
+	//fmt.Println(ar2)
+
+	//func main() {
+	//ar := []int{3, 4, 1, 2, 5, 7, -1, 0}
+	//ar := ar2
+	fmt.Printf("Unsorted list:\t%v\n", ar2)
+	quicksort(ar2)
+	//fmt.Printf("Sorted list:\t%v\n", ar2)
 
 }
 
-//quickSort(ar)
-//fmt.Println(ar)
-//}
-func quickSort(ar []int) {
-	if len(ar) <= 1 {
+func quicksort(ar2 []int) {
+	//fmt.Printf("Sorting ...:\t%v\n", ar)
+	if len(ar2) <= 1 {
 		return
 	}
 
-	split := partition(ar)
+	split := partition(ar2)
 
-	quickSort(ar[:split])
-	quickSort(ar[split:])
+	quicksort(ar2[:split])
+	quicksort(ar2[split:])
 
 }
 
-func partition(ar []int) int {
-	pivot := ar[len(ar)/2]
+func partition(ar2 []int) int {
+	pivot := ar2[len(ar2)/2]
+
 	left := 0
-	right := len(ar) - 1
+	right := len(ar2) - 1
+
 	for {
-		for ; ar[left] < pivot; left++ {
+		for ; ar2[left] < pivot; left++ {
 		}
-		for ; ar[right] > pivot; right-- {
+
+		for ; ar2[right] > pivot; right-- {
 		}
+
 		if left >= right {
 			return right
 		}
-		swap(ar, left, right)
+
+		swap(ar2, left, right)
+
 	}
 }
+func swap(ar2 []int, i, j int) {
+	tmp := ar2[i]
+	ar2[i] = ar2[j]
+	ar2[j] = tmp
 
-func swap(ar []int, i, j int) {
-	tmp := ar[i]
-	ar[i] = ar[j]
-	ar[j] = tmp
 }
