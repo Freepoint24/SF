@@ -23,18 +23,20 @@ func main() {
 
 	fmt.Printf("Unsorted list:\t%v\n", ar) //не сортированный массив
 	fmt.Println("")
-	insertionSort(ar)
+	InsertionSort2(ar)
 	fmt.Println("")
 	fmt.Printf("Sorted list:\t%v\n", ar) //отсортированный масссив
 }
 
 //Insertion sort (Сортировка вставками).
-func insertionSort(ar []int) {
-
-	for i := 1; i < len(ar); i++ { //переменная i - кроичество проходов по слайсу
-		for j := i; j != 0 && ar[j] < ar[j-1]; j-- { //переменная j - i-тый индекс слайса,
-			ar[j-1], ar[j] = ar[j], ar[j-1]
+func InsertionSort2(ar []int) {
+	for i := 1; i < len(ar); i++ { //переменная i - количество проходов по слайсу
+		x := ar[i]                         //переменная x - i-тый индекс массива
+		j := i                             //переменная j присвоить значение i
+		for ; j >= 1 && ar[j-1] > x; j-- { //если j больше или равно 1 и предыдущий элемент больше итого значения
+			ar[j] = ar[j-1]
 		}
+		ar[j] = x
 		fmt.Printf("Sorting ...:\t%v\n", ar) // визуализация
 	}
 }

@@ -20,13 +20,13 @@ func main() {
 		ar[i] = rand.Intn(200) - 100 // ограничиваем случайно значение от [-100;100]
 	}
 
-	insertionSort(ar)
+	insertionSort3(ar)
 	fmt.Println("")
 	fmt.Printf("Sorted list:\t%v\n", ar) //отсортированный масссив
 }
 
 //Реализуйте двунаправленную сортировку выбором.
-func insertionSort(ar []int) {
+func insertionSort3(ar []int) {
 	fmt.Printf("Unsorted list:\t%v\n", ar) //не сортированный массив
 	fmt.Println("")
 	for i := 1; i < len(ar); i++ {
