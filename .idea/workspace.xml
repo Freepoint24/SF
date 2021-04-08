@@ -19,11 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="lesson 12.4 Select sort">
-      <change afterPath="$PROJECT_DIR$/Algoritm/12.5_Insertion sort/12.5.1_hw_v2.go" afterDir="false" />
+    <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="lesson 12.5 insertion sort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/12.5_Insertion sort/12.5.1_hw.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.5_Insertion sort/12.5.1_hw.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/12.5_Insertion sort/12.5_Insertion_sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.5_Insertion sort/12.5_Insertion_sort.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/12.6_Merge_sort/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.6_Merge_sort/1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/12.6_Merge_sort/12.6.1_hw.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.6_Merge_sort/12.6.1_hw.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/12.6_Merge_sort/main3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.6_Merge_sort/main3.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +121,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lesson 5.5 Operators" />
     <MESSAGE value="lesson 6.4 Cycles" />
     <MESSAGE value="lesson 5.4 Basic types" />
     <MESSAGE value="lesson 6.8 output" />
@@ -146,6 +145,7 @@
     <MESSAGE value="lesson 12 Selection sort" />
     <MESSAGE value="lesson 12.3 bubble sort" />
     <MESSAGE value="lesson 12.4 Select sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 12.4 Select sort" />
+    <MESSAGE value="lesson 12.5 insertion sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 12.5 insertion sort" />
   </component>
 </project>

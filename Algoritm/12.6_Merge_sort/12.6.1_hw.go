@@ -1,9 +1,15 @@
+/*Сложность
+В лучшем случае: O(n log(n)).
+В среднем случае: O(n log(n)).
+В худшем случае: O(n log(n)).
+Емкостная, в худшем: O(n).
+*/
 package main
 
 import (
 	"fmt"
 	"math/rand"
-	"testing"
+	//"testing"
 	"time"
 )
 
@@ -16,12 +22,12 @@ func init() {
 }
 
 func main() {
-	//ar :=[]int{6,5, 3, 1, 8, 7, 2, 4} // пример из задания
+	ar := []int{6, 5, 3, 1, 8, 7, 2, 4} // пример из задания
 	//ar :=[]int{1, 5, 6, 0, 10, -7, 3, 8, 4, 2, 7}
-	ar := make([]int, 50)
-	for i := range ar {
-		ar[i] = rand.Intn(200) - 100 // ограничиваем случайно значение от [-100;100]
-	}
+	//ar := make([]int, 25)
+	//for i := range ar {
+	//	ar[i] = rand.Intn(100) - 50 // ограничиваем случайно значение от [-100;100]
+	//}
 
 	fmt.Printf("Unsorted list:\t%v\n", ar) // не сортированный массив
 	sorted := mergeSort(ar)

@@ -1,6 +1,6 @@
 package main
 
-func mergSort(arr []int []int)  {
+func mergSort3(arr []int []int)  {
 	item := make([]int, len(arr))
 	copy(items, arr)
 	doMergeSort(items)
@@ -27,7 +27,7 @@ func doMergSort(items []int)  {
 
 }
 
-func merge(left []int, right []int, items []int)  {
+func merge3(left []int, right []int, items []int)  {
 	l := 0
 	r := 0
 	i := 0

@@ -26,10 +26,10 @@ func sort(m []int) []int {
 	left = sort(left)
 	right = sort(right)
 
-	return merge(left, right)
+	return merge2(left, right)
 }
 
-func merge(left, right []int) []int {
+func merge2(left, right []int) []int {
 	var result []int
 	for len(left) > 0 || len(right) > 0 {
 		if len(left) > 0 && len(right) > 0 {
