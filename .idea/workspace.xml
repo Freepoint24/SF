@@ -19,10 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="algo">
+    <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="lesson 12 Selection sort">
+      <change afterPath="$PROJECT_DIR$/Algoritm/12.3_bubble_sort/12.3.2_hw_v2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/12.4_SelectSort/12.4.1_hw_v2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/12.4_SelectSort/12.4.3_hw_v2.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/12.3_bubble_sort/12.3.2_hw.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.3_bubble_sort/12.3.2_hw.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/12.4_SelectSort/12.4.1_hw.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.4_SelectSort/12.4.1_hw.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/12.4_SelectSort/12.4.3_hw.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.4_SelectSort/12.4.3_.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +62,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Algoritm/12.4_SelectSort" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -69,6 +71,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algoritm/12.4_SelectSort" />
+      <recent name="$PROJECT_DIR$/Algoritm/12.3_bubble_sort" />
       <recent name="D:\CODE\SF\7.2_functions\structs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -117,7 +121,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lesson 5.4  Variables" />
     <MESSAGE value="lesson 5.4  Basic types" />
     <MESSAGE value="lesson 5.8 Compilation and homework" />
     <MESSAGE value="lesson 5.5 Operators" />
@@ -142,6 +145,7 @@
     <MESSAGE value="lesson 12.3_bubble sort" />
     <MESSAGE value="lesson 11.2_list" />
     <MESSAGE value="algo" />
-    <option name="LAST_COMMIT_MESSAGE" value="algo" />
+    <MESSAGE value="lesson 12 Selection sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 12 Selection sort" />
   </component>
 </project>
