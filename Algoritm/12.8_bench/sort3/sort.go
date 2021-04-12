@@ -16,7 +16,14 @@ func bubbleSort(ar []int) {
 }
 
 //
-//Задание 12.4.1
+//Задание 12.4.1func generateSlice(max, size int) []int {
+	ar := make([]int, size)
+	for i := range ar {
+		ar[i] = rand.Intn(max*2) - max
+	}
+
+	return ar
+}
 //Реализуйте сортировку выбором Selection sort, работающую «слева направо»
 //(поиск минимальных элементов и перемещение их в начало).
 func selectionSort(ar []int) {

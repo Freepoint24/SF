@@ -1,0 +1,7 @@
+goos: linux
+goarch: amd64
+pkg: benchForSort
+cpu: AMD FX(tm)-6100 Six-Core Processor             
+BenchmarkBubbleSort/small_arrays-6         	   53791	     21491 ns/op	       0 B/op	       0 allocs/op
+BenchmarkBubbleSort/middle_arrays-6        	signal: interrupt
+FAIL	benchForSort	12.849s
