@@ -1,12 +1,13 @@
-package main
+package sort
 
-/////////////////////////////////////////////////////////////////////////////////////////////////
+//1///////////////////////////////////////////////////////////////////////////////////////////////
 /*12.3.2 алгоритм сортировки пузырьком - bubble sort, отсортирует массив int по возрастанию.
 /Сложность bubbleSort
 /В лучшем случае: O(n).
 /В среднем случае: O(n2).
 /В худшем случае: O(n2) Е.
-*/Ёмкостная, в худшем: O(1).
+Ёмкостная, в худшем: O(1).
+*/
 func bubbleSort(s1 []int) {
 	length := len(s1)                   //переменная length - длина слайса s1
 	for i := 0; i < (length - 1); i++ { // переменная i - количество проходов по слайсу
@@ -19,7 +20,7 @@ func bubbleSort(s1 []int) {
 
 }
 
-//////////////////////////////////////////////////////////////////////////////////////////////////
+//2////////////////////////////////////////////////////////////////////////////////////////////////
 /*Задание 12.4.1 сортировку выбором Selection sort, работающую «слева направо»
 Сложность
 В лучшем случае: O(n2)
@@ -41,7 +42,7 @@ func selectionSort(ar []int) {
 	}
 }
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//3//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /*Задание 12.5.1 Сортировка вставкой InsertionSort
 Сложность
 В лучшем случае: O(n).
@@ -50,7 +51,7 @@ func selectionSort(ar []int) {
 Емкостная, в худшем: O(1).
 */
 
-func InsertionSort(ar []int) {
+func insertionSort(ar []int) {
 	for i := 1; i < len(ar); i++ { //переменная i - количество проходов по слайсу
 		x := ar[i]                         //переменная x - i-тый индекс массива
 		j := i                             //переменная j присвоить значение i
@@ -61,7 +62,7 @@ func InsertionSort(ar []int) {
 	}
 }
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//4////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /* 12.6. Сортировка слиянием mergeSort
 Сложность
 В лучшем случае: O(n log(n)).
@@ -70,7 +71,22 @@ func InsertionSort(ar []int) {
 Емкостная, в худшем: O(n).
 */
 
-func mergeSort(left, right []int) []int {
+func mergeSort(m []int) []int {
+	if len(m) <= 1 {
+		return m
+	}
+
+	mid := len(m) / 2
+	left := m[:mid]
+	right := m[mid:]
+
+	left = mergeSort(left)
+	right = mergeSort(right)
+
+	return merge(left, right)
+}
+
+func merge(left, right []int) []int {
 	var result []int
 	for len(left) > 0 || len(right) > 0 {
 		if len(left) > 0 && len(right) > 0 {
@@ -89,10 +105,11 @@ func mergeSort(left, right []int) []int {
 			right = right[1:]
 		}
 	}
+
 	return result
 }
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//5////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /* 12.7. Быстрая сортировка quickSort
 Сложность
 В лучшем случае: O(n log(n)).
@@ -100,27 +117,40 @@ func mergeSort(left, right []int) []int {
 В худшем случае: O(n2).
 Емкостная, в худшем: O(1).
 
- */
+*/
 
-
-func quickSort(ar []int, start, end int) {
-	if start >= end {
+func quickSort(ar []int) {
+	if len(ar) <= 1 {
 		return
 	}
 
-	pivot := ar[start]
-	i := start + 1
+	split := partition(ar)
+	quickSort(ar[:split])
+	quickSort(ar[split:])
+}
 
-	for j := start; j <= end; j++ {
-		if pivot > ar[j] {
-			ar[i], ar[j] = ar[j], ar[i]
-			i++
+func partition(ar []int) int {
+	pivot := ar[len(ar)/2]
+	left := 0
+	right := len(ar) - 1
+
+	for {
+		for ; ar[left] < pivot; left++ {
 		}
 
+		for ; ar[right] > pivot; right-- {
+		}
+
+		if left >= right {
+			return right
+		}
+
+		swap(ar, left, right)
 	}
+}
 
-	ar[start], ar[i-1] = ar[i-1], ar[start]
-
-	quickSort(ar, start, i-2)
-	quickSort(ar, i, end)
+func swap(ar []int, i, j int) {
+	tmp := ar[i]
+	ar[i] = ar[j]
+	ar[j] = tmp
 }
