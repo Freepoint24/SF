@@ -3,75 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7e83c9f2-dfef-4f05-b9c0-e19f3464ed7a" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../10.7_array/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../10.7_array/main3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12.7_Quick_sorting/.idea/12.7_Quick_sorting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../12.7_Quick_sorting/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../12.7_Quick_sorting/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../12.7_Quick_sorting/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/.~lock.Итоги.ods#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort/001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort/002.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort/003.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort1bubbleSort/001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort1bubbleSort/002.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort1bubbleSort/003.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort1bubbleSort/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort1bubbleSort/sort.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort1bubbleSort/sort_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort2selectionSort/001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort2selectionSort/002.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort2selectionSort/003.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort2selectionSort/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort2selectionSort/sort.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort2selectionSort/sort_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort3insertionSort/001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort3insertionSort/002.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort3insertionSort/003.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort3insertionSort/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort3insertionSort/sort.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort3insertionSort/sort_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort4mergeSort/001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort4mergeSort/002.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort4mergeSort/003.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort4mergeSort/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort4mergeSort/sort.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort4mergeSort/sort_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort5QuickSort/001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort5QuickSort/002.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort5QuickSort/003.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort5QuickSort/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort5QuickSort/sort.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort5QuickSort/sort_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort1bubbleSort/001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort1bubbleSort/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort1bubbleSort/sort.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort1bubbleSort/sort_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort2selectionSort/001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort2selectionSort/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort2selectionSort/sort.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort2selectionSort/sort_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort3insertionSort/001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort3insertionSort/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort3insertionSort/sort.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort3insertionSort/sort_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort4mergeSort/001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort4mergeSort/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort4mergeSort/sort.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort4mergeSort/sort_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort5QuickSort/001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort5QuickSort/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort5QuickSort/sort.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sortv4/sort5QuickSort/sort_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/Итоги.ods" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../10.7_array/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../10.7_array/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../12.7_Quick_sorting/12.7.1_hw_v2.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.7_Quick_sorting/12.7.1_hw_v2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sortv2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sortv2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sortv2/new.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sortv2/sort/new.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sortv2/sort/sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/../sortv2/sort/sort.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sortv2/sort/sort_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../sortv2/sort/sort_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sortv2/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sortv2/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +36,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sortv2/sortv4/sort3insertionSort" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />

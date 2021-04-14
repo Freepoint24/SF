@@ -1,6 +1,7 @@
 Все тесты в одном файле не запустились.
 Разбил тесты для каждого алгоритма.
 
+Структура папок:
 sort - все одним файлом
 sort1bubbleSort     - bubbleSort тесты
 sort2selectionSort  - selectionSort тесты
