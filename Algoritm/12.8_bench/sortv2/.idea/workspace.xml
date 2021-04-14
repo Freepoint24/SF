@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2faeeeae-2f1c-4280-bcbc-811875e64962" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../sortv2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort/new.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sortv2/sort/sort_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2faeeeae-2f1c-4280-bcbc-811875e64962" name="Default Changelist" comment="lesson 12.8 bench">
+      <change afterPath="$PROJECT_DIR$/../../10.7_array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.7_array/main3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sortv2/sort/001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sortv2/sort/new1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10.7_array/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../10.7_array/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../12.7_Quick_sorting/12.7.1_hw_v2.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.7_Quick_sorting/12.7.1_hw_v2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sort_v2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../sortv2/.idea/sort_v2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sortv2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sortv2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sortv2/new.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/../sortv2/sort/sort.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sortv2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sortv2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sortv2/new.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sortv2/sort/new.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sortv2/sort/sort_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../sortv2/sort/sort_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +43,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../10.7_array" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -115,5 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="lesson 12.8 bench" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 12.8 bench" />
   </component>
 </project>

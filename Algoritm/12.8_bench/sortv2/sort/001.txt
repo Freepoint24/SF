@@ -1,0 +1,107 @@
+goos: linux
+goarch: amd64
+pkg: sortv2/sort
+cpu: AMD FX(tm)-6100 Six-Core Processor             
+BenchmarkBubbleSort/small_arrays-6         	   56732	     22164 ns/op	       0 B/op	       0 allocs/op
+BenchmarkBubbleSort/middle_arrays-6        	 2088805	       587.7 ns/op	       0 B/op	       0 allocs/op
+BenchmarkBubbleSort/big_arrays-6           	       1	21545688818 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSelectionSort/small_arrays-6      	   77178	     14099 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSelectionSort/middle_arrays-6     	 2006050	       595.1 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSelectionSort/big_arrays-6        	       1	9501496966 ns/op	       0 B/op	       0 allocs/op
+BenchmarkInsertionSort/small_arrays-6      	  202524	      5913 ns/op	       0 B/op	       0 allocs/op
+BenchmarkInsertionSort/middle_arrays-6     	SIGQUIT: quit
+PC=0x46e541 m=0 sigcode=0
+
+goroutine 0 [idle]:
+runtime.futex(0x6229b0, 0x80, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x7ffe0e525af8, 0x40c15f, ...)
+	/snap/go/7360/src/runtime/sys_linux_amd64.s:579 +0x21
+runtime.futexsleep(0x6229b0, 0x0, 0xffffffffffffffff)
+	/snap/go/7360/src/runtime/os_linux.go:44 +0x46
+runtime.notesleep(0x6229b0)
+	/snap/go/7360/src/runtime/lock_futex.go:159 +0x9f
+runtime.mPark()
+	/snap/go/7360/src/runtime/proc.go:1340 +0x39
+runtime.stopm()
+	/snap/go/7360/src/runtime/proc.go:2257 +0x92
+runtime.findrunnable(0xc00002c800, 0x0)
+	/snap/go/7360/src/runtime/proc.go:2916 +0x72e
+runtime.schedule()
+	/snap/go/7360/src/runtime/proc.go:3125 +0x2d7
+runtime.park_m(0xc000001380)
+	/snap/go/7360/src/runtime/proc.go:3274 +0x9d
+runtime.mcall(0x0)
+	/snap/go/7360/src/runtime/asm_amd64.s:327 +0x5b
+
+goroutine 1 [chan receive, 3 minutes]:
+testing.(*B).run1(0xc000130480, 0xc000130480)
+	/snap/go/7360/src/testing/benchmark.go:234 +0xa5
+testing.(*B).Run(0xc000130000, 0x54a362, 0x16, 0x550d98, 0x4c3c00)
+	/snap/go/7360/src/testing/benchmark.go:667 +0x373
+testing.runBenchmarks.func1(0xc000130000)
+	/snap/go/7360/src/testing/benchmark.go:541 +0x78
+testing.(*B).runN(0xc000130000, 0x1)
+	/snap/go/7360/src/testing/benchmark.go:192 +0xeb
+testing.runBenchmarks(0x547e40, 0xb, 0xc00000c048, 0x61e580, 0x5, 0x5, 0x622420)
+	/snap/go/7360/src/testing/benchmark.go:550 +0x3d1
+testing.(*M).Run(0xc00011c000, 0x0)
+	/snap/go/7360/src/testing/testing.go:1423 +0x51d
+main.main()
+	_testmain.go:51 +0x138
+
+goroutine 26 [chan receive, 3 minutes]:
+testing.(*B).doBench(0xc0001306c0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/snap/go/7360/src/testing/benchmark.go:281 +0x73
+testing.(*benchContext).processBench(0xc00000c060, 0xc0001306c0)
+	/snap/go/7360/src/testing/benchmark.go:580 +0x237
+testing.(*B).run(0xc0001306c0)
+	/snap/go/7360/src/testing/benchmark.go:272 +0x65
+testing.(*B).Run(0xc000130480, 0x548431, 0xd, 0x550d88, 0x622400)
+	/snap/go/7360/src/testing/benchmark.go:668 +0x42f
+sortv2/sort.BenchmarkInsertionSort(0xc000130480)
+	/home/alex/go/src/SF/Algoritm/12.8_bench/sortv2/sort/sort_test.go:108 +0x8d
+testing.(*B).runN(0xc000130480, 0x1)
+	/snap/go/7360/src/testing/benchmark.go:192 +0xeb
+testing.(*B).run1.func1(0xc000130480)
+	/snap/go/7360/src/testing/benchmark.go:232 +0x57
+created by testing.(*B).run1
+	/snap/go/7360/src/testing/benchmark.go:225 +0x7f
+
+goroutine 16 [semacquire]:
+runtime.ReadMemStats(0x650d60)
+	/snap/go/7360/src/runtime/mstats.go:473 +0x36
+testing.(*B).StartTimer(0xc0001306c0)
+	/snap/go/7360/src/testing/benchmark.go:123 +0x49
+sortv2/sort.BenchmarkInsertionSort.func2(0xc0001306c0)
+	/home/alex/go/src/SF/Algoritm/12.8_bench/sortv2/sort/sort_test.go:114 +0xcb
+testing.(*B).runN(0xc0001306c0, 0x30583f)
+	/snap/go/7360/src/testing/benchmark.go:192 +0xeb
+testing.(*B).launch(0xc0001306c0)
+	/snap/go/7360/src/testing/benchmark.go:325 +0xea
+created by testing.(*B).doBench
+	/snap/go/7360/src/testing/benchmark.go:280 +0x55
+
+rax    0xca
+rbx    0x622860
+rcx    0x46e543
+rdx    0x0
+rdi    0x6229b0
+rsi    0x80
+rbp    0x7ffe0e525ac0
+rsp    0x7ffe0e525a78
+r8     0x0
+r9     0x0
+r10    0x0
+r11    0x286
+r12    0x0
+r13    0xb
+r14    0x0
+r15    0x0
+rip    0x46e541
+rflags 0x286
+cs     0x33
+fs     0x0
+gs     0x0
+*** Test killed with quit: ran too long (11m0s).
+exit status 2
+FAIL	sortv2/sort	660.008s
+FAIL

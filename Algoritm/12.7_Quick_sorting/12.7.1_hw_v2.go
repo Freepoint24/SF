@@ -17,7 +17,7 @@ func init() {
 }
 
 func main() {
-	ar :=[]int{6,5, 3, 1, 8, 7, 2, 4,} // пример из задания
+	ar := []int{6, 5, 3, 1, 8, 7, 2, 4} // пример из задания
 	//ar :=[]int{1, 5, 6, 0, 10, -7, 3, 8, 4, 2, 7}
 	//ar := make([]int, 50)
 	//for i := range ar {
@@ -25,22 +25,22 @@ func main() {
 	//}
 	fmt.Printf("Unsorted list:\t%v\n", ar)
 	//fmt.Println("")
-	Quicksort(ar)
+	quicksort(ar)
 	//fmt.Println("")
 	fmt.Printf("Sorted list:\t%v\n", ar)
 }
 
 // ваш код здесь
 
-func Quicksort(ar []int) {
+func quicksort(ar []int) {
 	if len(ar) <= 1 {
 		return
 	}
 
 	split := partition(ar)
 	fmt.Println("Опорный ", ar)
-	Quicksort(ar[:split])
-	Quicksort(ar[split:])
+	quicksort(ar[:split])
+	quicksort(ar[split:])
 }
 
 func partition(ar []int) int {

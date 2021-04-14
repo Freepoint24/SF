@@ -5,40 +5,43 @@ import (
 	"testing"
 )
 
-//go test -bench=. -benchmem > new.txt записать в файл
+//go test -bench=. -benchmem > new1.txt записать в файл
 //запускать командой go test -bench=. ./...
 //go test -bench=. -benchmem  покажет алокацию памяти
 //1/////////////////////////////////////////////////////////////////////////////////////////////
 func BenchmarkBubbleSort(b *testing.B) {
-	b.ReportAllocs() //аллокация памяти
+	//b.ReportAllocs() //аллокация памяти
 	b.Run("small arrays", func(b *testing.B) {
 		b.StopTimer()
 		for i := 0; i < b.N; i++ { //b.N спецаильная переменная, от 0 до b.N выполнять цикл
 			ar := generateSlice(10, 100)
 			b.StartTimer()
+			b.ReportAllocs()
 			bubbleSort(ar)
 			b.StopTimer()
 		}
 	})
 
 	b.Run("middle arrays", func(b *testing.B) {
-		b.ReportAllocs()
+		//b.ReportAllocs()
 		b.StopTimer()
 		for i := 0; i < b.N; i++ {
 			ar := generateSlice(100, 10)
 			b.StartTimer()
+			b.ReportAllocs()
 			bubbleSort(ar)
 			b.StopTimer()
 		}
 	})
 
 	b.Run("big arrays", func(b *testing.B) {
-		b.ReportAllocs()
+		//b.ReportAllocs()
 		b.StopTimer()
 
 		for i := 0; i < b.N; i++ {
 			ar := generateSlice(10000, 100000)
 			b.StartTimer()
+			b.ReportAllocs()
 			bubbleSort(ar)
 			b.StopTimer()
 		}
@@ -47,37 +50,40 @@ func BenchmarkBubbleSort(b *testing.B) {
 
 //2//////////////////////////////////////////////////////////////////////////////////////
 func BenchmarkSelectionSort(b *testing.B) {
-	b.ReportAllocs() //аллокация памяти
-	b.StopTimer()    //
+	//b.ReportAllocs() //аллокация памяти
+	b.StopTimer() //
 	b.Run("small arrays", func(b *testing.B) {
 		b.StopTimer()
 		for i := 0; i < b.N; i++ { //b.N спецаильная переменная, от 0 до b.N выполнять цикл
 			ar := generateSlice(10, 100)
 			b.StartTimer()
+			b.ReportAllocs()
 			selectionSort(ar)
 			b.StopTimer()
 		}
 	})
 
 	b.Run("middle arrays", func(b *testing.B) {
-		b.ReportAllocs()
+		//b.ReportAllocs()
 		b.StopTimer()
 
 		for i := 0; i < b.N; i++ {
 			ar := generateSlice(100, 10)
 			b.StartTimer()
+			b.ReportAllocs()
 			selectionSort(ar)
 			b.StopTimer()
 		}
 	})
 
 	b.Run("big arrays", func(b *testing.B) {
-		b.ReportAllocs()
+		//b.ReportAllocs()
 		b.StopTimer()
 
 		for i := 0; i < b.N; i++ {
 			ar := generateSlice(10000, 100000)
 			b.StartTimer()
+			b.ReportAllocs()
 			selectionSort(ar)
 			b.StopTimer()
 		}
@@ -86,37 +92,40 @@ func BenchmarkSelectionSort(b *testing.B) {
 
 //3////////////////////////////////////////////////////////////////////////////////////////////////
 func BenchmarkInsertionSort(b *testing.B) {
-	b.ReportAllocs() //аллокация памяти
-	b.StopTimer()    //
+	//b.ReportAllocs() //аллокация памяти
+	b.StopTimer() //
 	b.Run("small arrays", func(b *testing.B) {
 		b.StopTimer()
 		for i := 0; i < b.N; i++ { //b.N спецаильная переменная, от 0 до b.N выполнять цикл
 			ar := generateSlice(10, 100)
 			b.StartTimer()
+			b.ReportAllocs()
 			insertionSort(ar)
 			b.StopTimer()
 		}
 	})
 
 	b.Run("middle arrays", func(b *testing.B) {
-		b.ReportAllocs()
+		//b.ReportAllocs()
 		b.StopTimer()
 
 		for i := 0; i < b.N; i++ {
 			ar := generateSlice(100, 10)
 			b.StartTimer()
+			b.ReportAllocs()
 			insertionSort(ar)
 			b.StopTimer()
 		}
 	})
 
 	b.Run("big arrays", func(b *testing.B) {
-		b.ReportAllocs()
+		//b.ReportAllocs()
 		b.StopTimer()
 
 		for i := 0; i < b.N; i++ {
 			ar := generateSlice(10000, 100000)
 			b.StartTimer()
+			b.ReportAllocs()
 			insertionSort(ar)
 			b.StopTimer()
 		}
@@ -126,37 +135,40 @@ func BenchmarkInsertionSort(b *testing.B) {
 //4//////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 func BenchmarkMergeSort(b *testing.B) {
-	b.ReportAllocs() //аллокация памяти
-	b.StopTimer()    //
+	//b.ReportAllocs() //аллокация памяти
+	b.StopTimer() //
 	b.Run("small arrays", func(b *testing.B) {
 		b.StopTimer()
 		for i := 0; i < b.N; i++ { //b.N спецаильная переменная, от 0 до b.N выполнять цикл
 			ar := generateSlice(10, 100)
 			b.StartTimer()
+			b.ReportAllocs()
 			mergeSort(ar)
 			b.StopTimer()
 		}
 	})
 
 	b.Run("middle arrays", func(b *testing.B) {
-		b.ReportAllocs()
+		//b.ReportAllocs()
 		b.StopTimer()
 
 		for i := 0; i < b.N; i++ {
 			ar := generateSlice(100, 10)
 			b.StartTimer()
+			b.ReportAllocs()
 			mergeSort(ar)
 			b.StopTimer()
 		}
 	})
 
 	b.Run("big arrays", func(b *testing.B) {
-		b.ReportAllocs()
+		//b.ReportAllocs()
 		b.StopTimer()
 
 		for i := 0; i < b.N; i++ {
 			ar := generateSlice(10000, 100000)
 			b.StartTimer()
+			b.ReportAllocs()
 			mergeSort(ar)
 			b.StopTimer()
 		}
@@ -166,37 +178,40 @@ func BenchmarkMergeSort(b *testing.B) {
 //5/////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 func BenchmarkQuickSort(b *testing.B) {
-	b.ReportAllocs() //аллокация памяти
-	b.StopTimer()    //
+	//b.ReportAllocs() //аллокация памяти
+	b.StopTimer() //
 	b.Run("small arrays", func(b *testing.B) {
 		b.StopTimer()
 		for i := 0; i < b.N; i++ { //b.N спецаильная переменная, от 0 до b.N выполнять цикл
 			ar := generateSlice(10, 100)
 			b.StartTimer()
+			b.ReportAllocs()
 			quickSort(ar)
 			b.StopTimer()
 		}
 	})
 
 	b.Run("middle arrays", func(b *testing.B) {
-		b.ReportAllocs()
+		//b.ReportAllocs()
 		b.StopTimer()
 
 		for i := 0; i < b.N; i++ {
 			ar := generateSlice(100, 10)
 			b.StartTimer()
+			b.ReportAllocs()
 			quickSort(ar)
 			b.StopTimer()
 		}
 	})
 
 	b.Run("big arrays", func(b *testing.B) {
-		b.ReportAllocs()
+		//b.ReportAllocs()
 		b.StopTimer()
 
 		for i := 0; i < b.N; i++ {
 			ar := generateSlice(10000, 100000)
 			b.StartTimer()
+			b.ReportAllocs()
 			quickSort(ar)
 			b.StopTimer()
 		}

@@ -1,0 +1,9 @@
+goos: linux
+goarch: amd64
+pkg: sortv4/sort4mergeSort
+cpu: AMD FX(tm)-6100 Six-Core Processor             
+BenchmarkMergeSort/small_arrays-6         	    1998	    526323 ns/op	  155088 B/op	    3011 allocs/op
+BenchmarkMergeSort/middle_arrays-6        	   20996	     48025 ns/op	   12656 B/op	     318 allocs/op
+BenchmarkMergeSort/big_arrays-6           	       2	 671935954 ns/op	574174012 B/op	 3052124 allocs/op
+PASS
+ok  	sortv4/sort4mergeSort	7.560s

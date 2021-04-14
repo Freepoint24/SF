@@ -1,0 +1,96 @@
+goos: linux
+goarch: amd64
+pkg: sort2/sort1QuickSort
+cpu: AMD FX(tm)-6100 Six-Core Processor             
+BenchmarkBubbleSort/small_arrays-6         	   44697	     24416 ns/op	       0 B/op	       0 allocs/op
+BenchmarkBubbleSort/middle_arrays-6        	 1947723	       615.9 ns/op	       0 B/op	       0 allocs/op
+SIGQUIT: quit
+PC=0x46e541 m=0 sigcode=0
+
+goroutine 0 [idle]:
+runtime.futex(0x620950, 0x80, 0x0, 0x0, 0x7fff00000000, 0x0, 0x4328fc, 0x620658, 0x7fff79f3d438, 0x40c15f, ...)
+	/snap/go/7360/src/runtime/sys_linux_amd64.s:579 +0x21
+runtime.futexsleep(0x620950, 0x0, 0xffffffffffffffff)
+	/snap/go/7360/src/runtime/os_linux.go:44 +0x46
+runtime.notesleep(0x620950)
+	/snap/go/7360/src/runtime/lock_futex.go:159 +0x9f
+runtime.mPark()
+	/snap/go/7360/src/runtime/proc.go:1340 +0x39
+runtime.stopm()
+	/snap/go/7360/src/runtime/proc.go:2257 +0x92
+runtime.findrunnable(0xc00002f000, 0x0)
+	/snap/go/7360/src/runtime/proc.go:2916 +0x72e
+runtime.schedule()
+	/snap/go/7360/src/runtime/proc.go:3125 +0x2d7
+runtime.park_m(0xc000100000)
+	/snap/go/7360/src/runtime/proc.go:3274 +0x9d
+runtime.mcall(0x0)
+	/snap/go/7360/src/runtime/asm_amd64.s:327 +0x5b
+
+goroutine 1 [chan receive, 11 minutes]:
+testing.(*B).run1(0xc0000e8240, 0xc0000e8240)
+	/snap/go/7360/src/testing/benchmark.go:234 +0xa5
+testing.(*B).Run(0xc0000e8000, 0x5486f7, 0x13, 0x54fd38, 0x4c3c00)
+	/snap/go/7360/src/testing/benchmark.go:667 +0x373
+testing.runBenchmarks.func1(0xc0000e8000)
+	/snap/go/7360/src/testing/benchmark.go:541 +0x78
+testing.(*B).runN(0xc0000e8000, 0x1)
+	/snap/go/7360/src/testing/benchmark.go:192 +0xeb
+testing.runBenchmarks(0x548f1a, 0x14, 0xc0000bc030, 0x617fc0, 0x1, 0x1, 0x6203c0)
+	/snap/go/7360/src/testing/benchmark.go:550 +0x3d1
+testing.(*M).Run(0xc0000d2000, 0x0)
+	/snap/go/7360/src/testing/testing.go:1423 +0x51d
+main.main()
+	_testmain.go:43 +0x138
+
+goroutine 6 [chan receive, 7 minutes]:
+testing.(*B).run1(0xc0000e8480, 0xc0000e8480)
+	/snap/go/7360/src/testing/benchmark.go:234 +0xa5
+testing.(*B).Run(0xc0000e8240, 0x546a0d, 0xa, 0x54fd30, 0x620300)
+	/snap/go/7360/src/testing/benchmark.go:667 +0x373
+sort2/sort1QuickSort.BenchmarkBubbleSort(0xc0000e8240)
+	/home/alex/go/src/SF/Algoritm/12.8_bench/sortv2/sortv4/sort1QuickSort/sort_test.go:37 +0xae
+testing.(*B).runN(0xc0000e8240, 0x1)
+	/snap/go/7360/src/testing/benchmark.go:192 +0xeb
+testing.(*B).run1.func1(0xc0000e8240)
+	/snap/go/7360/src/testing/benchmark.go:232 +0x57
+created by testing.(*B).run1
+	/snap/go/7360/src/testing/benchmark.go:225 +0x7f
+
+goroutine 23 [runnable]:
+sort2/sort1QuickSort.bubbleSort(...)
+	/home/alex/go/src/SF/Algoritm/12.8_bench/sortv2/sortv4/sort1QuickSort/sort.go:14
+sort2/sort1QuickSort.BenchmarkBubbleSort.func3(0xc0000e8480)
+	/home/alex/go/src/SF/Algoritm/12.8_bench/sortv2/sortv4/sort1QuickSort/sort_test.go:45 +0x39
+testing.(*B).runN(0xc0000e8480, 0x1)
+	/snap/go/7360/src/testing/benchmark.go:192 +0xeb
+testing.(*B).run1.func1(0xc0000e8480)
+	/snap/go/7360/src/testing/benchmark.go:232 +0x57
+created by testing.(*B).run1
+	/snap/go/7360/src/testing/benchmark.go:225 +0x7f
+
+rax    0xca
+rbx    0x620800
+rcx    0x46e543
+rdx    0x0
+rdi    0x620950
+rsi    0x80
+rbp    0x7fff79f3d400
+rsp    0x7fff79f3d3b8
+r8     0x0
+r9     0x0
+r10    0x0
+r11    0x286
+r12    0x0
+r13    0x0
+r14    0x80c000000000
+r15    0x46c6e0
+rip    0x46e541
+rflags 0x286
+cs     0x33
+fs     0x0
+gs     0x0
+*** Test killed with quit: ran too long (11m0s).
+exit status 2
+FAIL	sort2/sort1QuickSort	660.007s
+FAIL

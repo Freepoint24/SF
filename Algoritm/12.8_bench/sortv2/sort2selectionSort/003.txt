@@ -1,0 +1,9 @@
+goos: linux
+goarch: amd64
+pkg: sortv2/sort
+cpu: AMD FX(tm)-6100 Six-Core Processor             
+BenchmarkSelectionSort/small_arrays-6         	   91897	     14086 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSelectionSort/middle_arrays-6        	 2122668	       580.9 ns/op	       0 B/op	       0 allocs/op
+BenchmarkSelectionSort/big_arrays-6           	       1	9845121547 ns/op	       0 B/op	       0 allocs/op
+PASS
+ok  	sortv2/sort	225.187s
