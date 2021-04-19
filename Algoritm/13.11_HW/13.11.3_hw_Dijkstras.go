@@ -1,3 +1,6 @@
+//3. Структура: ориентированный граф.
+//Функции: определения кратчайшего пути между любой парой вершин.
+
 package main
 
 import (
@@ -37,7 +40,7 @@ func (g *Graph) AddEdge(parent, child *Node, cost int) {
 }
 
 // AddNode adds a Node to the Graph list of Nodes, if the the node wasn't already added
-// g.Nodes is a map for better caching reasons (https://www.reddit.com/r/golang/comments/diptj9/implementing_dijkstra_algorithm_in_go/f3xcffh?utm_source=share&utm_medium=web2x)
+// g.Nodes is a map for better caching reasons
 func (g *Graph) AddNode(node *Node) {
 	if g.Nodes == nil {
 		g.Nodes = make(map[*Node]bool)

@@ -1,3 +1,6 @@
+//2. Структура: неориентированный граф.
+//Функции: поиск в ширину.
+
 package main
 
 import "fmt"
@@ -19,7 +22,7 @@ var nodes = map[int][]int{
 }
 
 func main() {
-	visited := []int{}
+	visited := []int{} //посещяемые вершины
 	bfs(1, nodes, func(node int) {
 		visited = append(visited, node)
 	})
