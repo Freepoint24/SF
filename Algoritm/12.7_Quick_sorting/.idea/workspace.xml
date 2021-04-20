@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="842bb963-4c75-4985-9e7b-575146d280e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../10.7_array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.7_array/main3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort/001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort/002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort1/001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort1/002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort1/003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort1/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort1/sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort1/sort_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort2/002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort2/003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort2/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort2/sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort2/sort_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort3/002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort3/003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort3/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort3/sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort3/sort_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort4/002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort4/003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort4/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort4/sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort4/sort_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort5/002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort5/003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort5/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort5/sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort5/sort_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.7_array/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10.7_array/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.7.1_hw_v2.go" beforeDir="false" afterPath="$PROJECT_DIR$/12.7.1_hw_v2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12.8_bench/sortv2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12.8_bench/sortv2/new.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12.8_bench/sortv2/sort/new.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12.8_bench/sortv2/sort/sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort/sort.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12.8_bench/sortv2/sort/sort_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../12.8_bench/sortv2/sort/sort_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///snap/go/7360" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1r9IkftliUxCrnOw42SkUo5S1q5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
