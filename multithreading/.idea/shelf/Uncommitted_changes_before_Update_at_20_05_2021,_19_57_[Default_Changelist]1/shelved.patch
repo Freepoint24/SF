@@ -1,0 +1,249 @@
+Index: ../Multithreading/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../Multithreading/.idea/modules.xml b/../Multithreading/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1621529824622)
++++ b/../Multithreading/.idea/modules.xml	(date 1621529824622)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/multithreading.iml" filepath="$PROJECT_DIR$/.idea/multithreading.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: ../Multithreading/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../Multithreading/.idea/workspace.xml b/../Multithreading/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1621529824634)
++++ b/../Multithreading/.idea/workspace.xml	(date 1621529824634)
+@@ -0,0 +1,69 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ChangeListManager">
++    <list default="true" id="9ea3cbff-07db-41cd-817e-b67e03bbe285" name="Default Changelist" comment="lesson 15.6 goroutine">
++      <change afterPath="$PROJECT_DIR$/../Algoritm/14.6_HW/main14.6_hw.go" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../Algoritm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algoritm/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../Algoritm/14.6_HW/main_14.6_HW.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Algoritm/14.6_HW/main8.go" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../Go_Start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Go_Start/.idea/workspace.xml" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Go File" />
++      </list>
++    </option>
++  </component>
++  <component name="GOROOT" url="file:///snap/go/7360" />
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
++  </component>
++  <component name="ProjectId" id="1sAqEFNNtV8rVtUqZteeWYQoHbv" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent">
++    <property name="DefaultGoTemplateProperty" value="Go File" />
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
++    <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="go.import.settings.migrated" value="true" />
++    <property name="go.sdk.automatically.set" value="true" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="node.js.detected.package.eslint" value="true" />
++    <property name="node.js.detected.package.tslint" value="true" />
++    <property name="node.js.selected.package.eslint" value="(autodetect)" />
++    <property name="node.js.selected.package.tslint" value="(autodetect)" />
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="oldMeFiltersMigrated" value="true" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="lesson 15.4 multithreading" />
++    <MESSAGE value="lesson 15.6 goroutine" />
++    <option name="LAST_COMMIT_MESSAGE" value="lesson 15.6 goroutine" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../Multithreading/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../Multithreading/.idea/vcs.xml b/../Multithreading/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1621529824650)
++++ b/../Multithreading/.idea/vcs.xml	(date 1621529824650)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../Algoritm/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"91e583a3-54d3-408f-a4fe-5313a47b25d1\" name=\"Default Changelist\" comment=\"lesson 14.6 hw\">\n      <change afterPath=\"$PROJECT_DIR$/10.7_array/.idea/workspace.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/12.7_Quick_sorting/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/12.7_Quick_sorting/.idea/workspace.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/14.3_/main6.go\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/14.6_HW/main.go\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/14.6_HW/main2.go\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/10.7_array/.idea/vcs.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/10.7_array/.idea/vcs.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/14.3_/main4.go\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/14.3_/main4.go\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Go File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"GOROOT\" url=\"file:///snap/go/7360\" />\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\n  </component>\n  <component name=\"GoLibraries\">\n    <option name=\"indexEntireGoPath\" value=\"false\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1rA3a66hMoWaT6Vxfa57EF7xNkH\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"DefaultGoTemplateProperty\" value=\"Go File\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"go.import.settings.migrated\" value=\"true\" />\n    <property name=\"go.sdk.automatically.set\" value=\"true\" />\n    <property name=\"go.tried.to.enable.integration.vgo.integrator\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"lesson 12.8 bench\" />\n    <MESSAGE value=\"lesson 13.11 hw\" />\n    <MESSAGE value=\"lesson 14.6 hw\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"lesson 14.6 hw\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../Algoritm/.idea/workspace.xml b/../Algoritm/.idea/workspace.xml
+--- a/../Algoritm/.idea/workspace.xml	(revision 4c3b6e9b383040b930872e450aeebbb8ed7e41b6)
++++ b/../Algoritm/.idea/workspace.xml	(date 1621529824610)
+@@ -1,15 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="91e583a3-54d3-408f-a4fe-5313a47b25d1" name="Default Changelist" comment="lesson 14.6 hw">
+-      <change afterPath="$PROJECT_DIR$/10.7_array/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/12.7_Quick_sorting/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/12.7_Quick_sorting/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/14.3_/main6.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/14.6_HW/main.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/14.6_HW/main2.go" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/10.7_array/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10.7_array/.idea/vcs.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/14.3_/main4.go" beforeDir="false" afterPath="$PROJECT_DIR$/14.3_/main4.go" afterDir="false" />
++    <list default="true" id="91e583a3-54d3-408f-a4fe-5313a47b25d1" name="Default Changelist" comment="lesson 14.5 hash map">
++      <change afterPath="$PROJECT_DIR$/14.6_HW/main14.6_hw.go" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/modules.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/14.6_HW/main_14.6_HW.go" beforeDir="false" afterPath="$PROJECT_DIR$/14.6_HW/main8.go" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../Go_Start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Go_Start/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -26,6 +25,14 @@
+   <component name="GOROOT" url="file:///snap/go/7360" />
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
++  </component>
++  <component name="GitSEFilterConfiguration">
++    <file-type-list>
++      <filtered-out-file-type name="LOCAL_BRANCH" />
++      <filtered-out-file-type name="REMOTE_BRANCH" />
++      <filtered-out-file-type name="TAG" />
++      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
++    </file-type-list>
+   </component>
+   <component name="GoLibraries">
+     <option name="indexEntireGoPath" value="false" />
+@@ -43,11 +50,20 @@
+     <property name="go.import.settings.migrated" value="true" />
+     <property name="go.sdk.automatically.set" value="true" />
+     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/../multithreading" />
+     <property name="node.js.detected.package.eslint" value="true" />
+     <property name="node.js.detected.package.tslint" value="true" />
+     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+     <property name="node.js.selected.package.tslint" value="(autodetect)" />
++    <property name="settings.editor.selected.configurable" value="preferences.editor" />
++  </component>
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/14.6_HW" />
++    </key>
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/14.5 hash map" />
++    </key>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -69,6 +85,13 @@
+     <MESSAGE value="lesson 12.8 bench" />
+     <MESSAGE value="lesson 13.11 hw" />
+     <MESSAGE value="lesson 14.6 hw" />
+-    <option name="LAST_COMMIT_MESSAGE" value="lesson 14.6 hw" />
++    <MESSAGE value="lesson 14.3" />
++    <MESSAGE value="lesson 10.7 array" />
++    <MESSAGE value="lesson 12.7 Quick sort" />
++    <MESSAGE value="Algorithm" />
++    <MESSAGE value="lesson 14.6 HW" />
++    <MESSAGE value="lesson 14.3 hash map" />
++    <MESSAGE value="lesson 14.5 hash map" />
++    <option name="LAST_COMMIT_MESSAGE" value="lesson 14.5 hash map" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: ../Go_Start/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"b640ff3e-813a-4b47-b4f8-7d30ee98e730\" name=\"Default Changelist\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/../Algoritm/11.9_homework/meteo/data/data.go\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/../Algoritm/11.9_homework/meteo/go.mod\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/../Algoritm/11.9_homework/meteo/main.go\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/../Algoritm/11.9_homework/meteo/main2.go\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/../Algoritm/11.9_homework/meteo/main3.go\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"GOROOT\" url=\"file:///snap/go/6745\" />\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\n  </component>\n  <component name=\"GoLibraries\">\n    <option name=\"indexEntireGoPath\" value=\"false\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1nZD0c9tR0I1GIvDiVHsYCBWK5L\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"go.import.settings.migrated\" value=\"true\" />\n    <property name=\"go.sdk.automatically.set\" value=\"true\" />\n    <property name=\"go.tried.to.enable.integration.vgo.integrator\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../Go_Start/.idea/workspace.xml b/../Go_Start/.idea/workspace.xml
+--- a/../Go_Start/.idea/workspace.xml	(revision 4c3b6e9b383040b930872e450aeebbb8ed7e41b6)
++++ b/../Go_Start/.idea/workspace.xml	(date 1621529824642)
+@@ -2,11 +2,11 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="b640ff3e-813a-4b47-b4f8-7d30ee98e730" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/../Algoritm/11.9_homework/meteo/data/data.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../Algoritm/11.9_homework/meteo/go.mod" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../Algoritm/11.9_homework/meteo/main.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../Algoritm/11.9_homework/meteo/main2.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../Algoritm/11.9_homework/meteo/main3.go" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../Algoritm/14.6_HW/main3.go" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../Algoritm/14.6_HW/main4.go" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../Algoritm/14.6_HW/main6.go" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../Algoritm/14.6_HW/main_14.6_HW.go" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../Algoritm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algoritm/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -34,6 +34,10 @@
+     <property name="go.sdk.automatically.set" value="true" />
+     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="node.js.detected.package.eslint" value="true" />
++    <property name="node.js.detected.package.tslint" value="true" />
++    <property name="node.js.selected.package.eslint" value="(autodetect)" />
++    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -49,5 +53,6 @@
+         </entry>
+       </map>
+     </option>
++    <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+ </project>
+\ No newline at end of file
