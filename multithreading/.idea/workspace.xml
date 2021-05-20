@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ea3cbff-07db-41cd-817e-b67e03bbe285" name="Default Changelist" comment="lesson 16.5 Mutex">
+      <change afterPath="$PROJECT_DIR$/../Algoritm/14.6_HW/main14.6_hw.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/16.5 Mutex/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/16.5 Mutex/main16.5.1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/16.5 Mutex/main16.5.2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/16.6 RWMutex/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/16.6 RWMutex/main16.6.1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algoritm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritm/14.6_HW/main_14.6_HW.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Algoritm/14.6_HW/main8.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go_Start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Go_Start/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multithreading/16.1 introduction/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Multithreading/16.1 introduction/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///snap/go/7360" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sAqEFNNtV8rVtUqZteeWYQoHbv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Multithreading/16.5 Mutex" />
+      <recent name="$PROJECT_DIR$/../Multithreading/16.6 RWMutex" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="multithreading" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <package value="SF/multithreading" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build SF/Multithreading/16.2. goroutine" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="multithreading" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="SF/Multithreading/16.2. goroutine" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/../Multithreading/16.2. goroutine/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="multithreading" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <package value="SF/multithreading" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build SF/Multithreading/16.2. goroutine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 15.4 multithreading" />
+    <MESSAGE value="lesson 15.6 goroutine" />
+    <MESSAGE value="lesson 16.2 goroutine" />
+    <MESSAGE value="lesson 16.1 introduction" />
+    <MESSAGE value="lesson 16.2.1 goroutine" />
+    <MESSAGE value="lesson 16.5 Mutex" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 16.5 Mutex" />
+  </component>
+</project>
