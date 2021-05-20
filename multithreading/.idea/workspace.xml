@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ea3cbff-07db-41cd-817e-b67e03bbe285" name="Default Changelist" comment="lesson 16.5 Mutex">
-      <change afterPath="$PROJECT_DIR$/../Algoritm/14.6_HW/main14.6_hw.go" afterDir="false" />
+    <list default="true" id="9ea3cbff-07db-41cd-817e-b67e03bbe285" name="Default Changelist" comment="Multithreading">
       <change afterPath="$PROJECT_DIR$/../Multithreading/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/16.5 Mutex/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/16.5 Mutex/main16.5.1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/16.5 Mutex/main16.5.2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/16.6 RWMutex/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/16.6 RWMutex/main16.6.1.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algoritm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algoritm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algoritm/14.6_HW/main_14.6_HW.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Algoritm/14.6_HW/main8.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Go_Start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Go_Start/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Multithreading/16.1 introduction/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Multithreading/16.1 introduction/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +107,11 @@
     <MESSAGE value="lesson 16.1 introduction" />
     <MESSAGE value="lesson 16.2.1 goroutine" />
     <MESSAGE value="lesson 16.5 Mutex" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 16.5 Mutex" />
+    <MESSAGE value="lesson 16.6 RWMutex" />
+    <MESSAGE value="lesson 14.6 Algorithm" />
+    <MESSAGE value="multithreading" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Multithreading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multithreading" />
   </component>
 </project>
