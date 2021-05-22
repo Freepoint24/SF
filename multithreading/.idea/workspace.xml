@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ea3cbff-07db-41cd-817e-b67e03bbe285" name="Default Changelist" comment="Multithreading">
-      <change afterPath="$PROJECT_DIR$/../Multithreading/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algoritm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algoritm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Go_Start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Go_Start/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9ea3cbff-07db-41cd-817e-b67e03bbe285" name="Default Changelist" comment="Algorithm">
+      <change afterPath="$PROJECT_DIR$/../Multithreading/16.6 RWMutex/main2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +111,8 @@
     <MESSAGE value="multithreading" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Multithreading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multithreading" />
+    <MESSAGE value="Go_Start" />
+    <MESSAGE value="Algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithm" />
   </component>
 </project>
