@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="lesson 12.8 bench">
+      <change afterPath="$PROJECT_DIR$/Multithreading/17 atomic /main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/12.7_Quick_sorting/12.7.1_hw_v2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.7_Quick_sorting/12.7.1_hw_v2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/12.8_bench/sort_v2/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.8_bench/sort_v2/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/12.8_bench/sort_v2/sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.8_bench/sort_v2/sort.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/12.8_bench/sort_v2/sort_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/12.8_bench/sort_v2/sort_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file:///snap/go/7221" />
+  <component name="GOROOT" url="file:///snap/go/7360" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -49,6 +46,14 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="faafb2a7-f05f-45b9-a40e-bfb4b2af6e22" />
+        <option name="url" value="https://github.com/Freepoint24/SF.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="1kTcJjjzBraHYCpF5wgcCDBfDLU" />
   <component name="ProjectLevelVcsManager">
@@ -75,7 +80,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
