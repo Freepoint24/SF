@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21036978-7b88-43bf-800c-28a8c346b7dc" name="Default Changelist" comment="">
+    <list default="true" id="c2a42100-6bcd-4313-9320-3d55dc6c551b" name="Changes" comment="add sf-golang-8-8-1">
+      <change afterPath="$PROJECT_DIR$/Algoritm/mts/1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/mts/11.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/mts/13.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/mts/2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/mts/3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/mts/5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/mts/6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/mts/7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/mts/8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritm/mts/9.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.1/electronic/android-phone.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.1/electronic/apple-phone.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.1/electronic/electronic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.1/electronic/radio-phone.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.1/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multithreading/17 atomic /main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Multithreading/17 atomic /main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/.idea/Algoritm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/.idea/Algoritm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,27 +38,17 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file:///snap/go/7360" />
+  <component name="GOROOT" url="file:///snap/go/current" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
   </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="faafb2a7-f05f-45b9-a40e-bfb4b2af6e22" />
-        <option name="url" value="https://github.com/Freepoint24/SF.git" />
-      </UrlAndAccount>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="1kTcJjjzBraHYCpF5wgcCDBfDLU" />
+  <component name="ProjectId" id="25MnOgAl3x7msKBhp2ls1UzdNBy" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -69,98 +62,27 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
-    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
-    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.format.on.save.advertiser.fired" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="go.sdk.automatically.set" value="true" />
-    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Algoritm/12.8_bench/sort_v2" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Algoritm/12.7_Quick_sorting" />
-      <recent name="$PROJECT_DIR$/Algoritm/12.5_Insertion sort" />
-      <recent name="$PROJECT_DIR$/Algoritm/12.4_SelectSort" />
-      <recent name="$PROJECT_DIR$/Algoritm/12.3_bubble_sort" />
-      <recent name="D:\CODE\SF\7.2_functions\structs" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\CODE\SF\Go_Start" />
-      <recent name="D:\CODE\SF\5.7_Package\test" />
-      <recent name="D:\CODE\SF\5.7_Package" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Go Build.go build SF/">
-    <configuration name="go build Packege2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="SF" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/5.7_Package/Packege2.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build SF/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
-      <module name="SF" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Go Build.go build Packege2.go" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lesson 6.6 input" />
-    <MESSAGE value="lesson 6.7 output" />
-    <MESSAGE value="lesson 6.8 homework &amp; example" />
-    <MESSAGE value="lesson 7.2 Functions" />
-    <MESSAGE value="lesson 7.2 parameter" />
-    <MESSAGE value="lesson_6.8_calculator_0.2" />
-    <MESSAGE value="lesson_6.8_calculator add simple projects" />
-    <MESSAGE value="lesson 7.2 - 7.3" />
-    <MESSAGE value="lesson 7.2 structs" />
-    <MESSAGE value="lesson 7.7 methods" />
-    <MESSAGE value="Go_Algorithms" />
-    <MESSAGE value="Go_Start" />
-    <MESSAGE value="lesson 11.3 singly linked list" />
-    <MESSAGE value="lesson 12.8_bench hw" />
-    <MESSAGE value="lesson 12.6_Merge_sort" />
-    <MESSAGE value="lesson 12.3_bubble sort" />
-    <MESSAGE value="lesson 11.2_list" />
-    <MESSAGE value="algo" />
-    <MESSAGE value="lesson 12 Selection sort" />
-    <MESSAGE value="lesson 12.3 bubble sort" />
-    <MESSAGE value="lesson 12.4 Select sort" />
-    <MESSAGE value="lesson 12.5 insertion sort" />
-    <MESSAGE value="lesson 12.6 merge sort" />
-    <MESSAGE value="lesson 12.7 quick sort" />
-    <MESSAGE value="lesson 12.8 bench" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 12.8 bench" />
+    <MESSAGE value="add sf-golang-8-8-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sf-golang-8-8-1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
   </component>
 </project>

@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="91e583a3-54d3-408f-a4fe-5313a47b25d1" name="Default Changelist" comment="lesson 14.5 hash map">
-      <change afterPath="$PROJECT_DIR$/14.6_HW/main14.6_hw.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mts/1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mts/11.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mts/13.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mts/2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mts/3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mts/5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mts/6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mts/7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mts/8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mts/9.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Algoritm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algoritm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.6_HW/main_14.6_HW.go" beforeDir="false" afterPath="$PROJECT_DIR$/14.6_HW/main8.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Go_Start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Go_Start/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +31,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file:///snap/go/7360" />
+  <component name="GOROOT" url="file:///snap/go/8298" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -47,10 +56,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../multithreading" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -64,6 +75,27 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/14.5 hash map" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Algoritm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="Algoritm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
