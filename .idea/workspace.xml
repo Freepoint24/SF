@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2a42100-6bcd-4313-9320-3d55dc6c551b" name="Changes" comment="add sf-golang-8-8-1">
-      <change afterPath="$PROJECT_DIR$/Algoritm/mts/1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/mts/11.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/mts/13.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/mts/2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/mts/3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/mts/5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/mts/6.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/mts/7.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/mts/8.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritm/mts/9.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.1/electronic/android-phone.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.1/electronic/apple-phone.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.1/electronic/electronic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.1/electronic/radio-phone.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.1/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/.idea/Algoritm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/.idea/Algoritm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritm/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c2a42100-6bcd-4313-9320-3d55dc6c551b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.2/automobile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.2/automobile_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Go_Start/8.8_/8.8.2/measurment.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
